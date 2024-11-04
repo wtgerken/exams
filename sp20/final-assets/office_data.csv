@@ -1,0 +1,4087 @@
+season,episode,speaker,id,scene,deleted,num_words
+1,1,Angela,68,14,False,10
+1,1,Dwight,3349,693,False,296
+1,1,Jan,532,120,False,143
+1,1,Jim,5175,982,False,335
+1,1,Kevin,69,14,False,4
+1,1,Man,132,26,False,5
+1,1,Michael,7843,1594,False,1598
+1,1,Michel,56,11,False,1
+1,1,Oscar,299,63,False,23
+1,1,Pam,5927,1129,False,295
+1,1,Phyllis,192,38,False,7
+1,1,Roy,899,171,False,32
+1,1,Ryan,1041,211,False,54
+1,1,Stanley,576,116,False,33
+1,1,Todd Packer,177,33,False,25
+1,2,Angela,1796,96,False,4
+1,2,Dwight,7143,284,False,185
+1,2,Jim,10449,473,False,366
+1,2,Kelly,846,43,False,11
+1,2,Kevin,3327,161,False,75
+1,2,Michael,31018,1309,False,1740
+1,2,Mr. Brown,12097,332,False,467
+1,2,Oscar,4899,198,False,70
+1,2,Pam,6945,383,False,113
+1,2,Ryan,1760,92,False,32
+1,2,Stanley,2189,117,False,23
+1,2,Toby,764,32,False,17
+1,3,Angela,3486,101,False,26
+1,3,Dwight,43927,1419,False,782
+1,3,Jan,12132,288,False,142
+1,3,Jim,28759,834,False,342
+1,3,Kevin,4502,166,False,35
+1,3,Man on Phone,2097,69,False,33
+1,3,Meredith,2234,80,False,35
+1,3,Michael,37399,908,False,1090
+1,3,Oscar,6510,219,False,53
+1,3,Pam,21237,525,False,218
+1,3,Ryan,774,30,False,11
+1,3,Stanley,4494,166,False,50
+1,3,Travel Agent,687,21,False,25
+1,4,Angela,6769,105,False,35
+1,4,Dwight,59617,1561,False,609
+1,4,Everybody,5268,172,False,21
+1,4,Jim,49599,1277,False,588
+1,4,Kevin,2927,59,False,6
+1,4,Meredith,10698,381,False,79
+1,4,Michael,82297,2387,False,1485
+1,4,Oscar,14742,483,False,98
+1,4,Pam,22077,521,False,236
+1,4,Phyllis,4793,65,False,41
+1,4,Roy,3384,141,False,32
+1,4,Ryan,4370,168,False,12
+1,4,Stanley,1956,40,False,9
+1,4,Toby,4315,159,False,14
+1,5,Angela,4257,82,False,31
+1,5,Darryl,20485,268,False,103
+1,5,Dwight,34642,323,False,147
+1,5,Everybody,1298,10,False,2
+1,5,Jim,30310,417,False,219
+1,5,Kevin,1322,10,False,7
+1,5,Lonny,7081,132,False,38
+1,5,Madge,4265,82,False,13
+1,5,Michael,144868,1896,False,1874
+1,5,Michael and Dwight,1395,18,False,2
+1,5,Oscar,2799,46,False,16
+1,5,Pam,19250,248,False,139
+1,5,Phyllis,5260,35,False,27
+1,5,Roy,17151,327,False,77
+1,5,Ryan,10707,113,False,40
+1,5,Stanley,3924,30,False,10
+1,5,Teammates,1391,18,False,1
+1,5,Warehouse Worker,1551,49,False,8
+1,5,Warehouse worker,2811,44,False,9
+1,5,Worker,7244,170,False,26
+1,6,Angela,5443,84,False,18
+1,6,Dwight,48015,499,False,243
+1,6,Jan,12568,8,False,71
+1,6,Jim,98280,1400,False,536
+1,6,Katy,103082,1225,False,332
+1,6,Kevin,8231,46,False,24
+1,6,Michael,181757,1792,False,1529
+1,6,Oscar,1641,10,False,4
+1,6,Pam,78581,921,False,221
+1,6,Roy,24426,292,False,98
+1,6,Ryan,21884,345,False,63
+1,6,Stanley,5329,72,False,22
+1,6,Toby,11592,84,False,23
+2,1,Angela,6748,173,False,22
+2,1,Chili's Employee,2237,54,False,37
+2,1,Darryl,2129,28,False,6
+2,1,Dwight,83694,1270,False,375
+2,1,Employee,2229,51,False,16
+2,1,Everybody,2198,45,False,2
+2,1,Guy At Bar,4373,88,False,8
+2,1,Guy at bar,2181,43,False,3
+2,1,Jan,18462,117,False,106
+2,1,Jim,72077,1398,False,292
+2,1,Kelly,17079,267,False,53
+2,1,Kevin,2112,25,False,10
+2,1,Michael,225773,3163,False,1787
+2,1,Oscar,8725,171,False,73
+2,1,Other Guy at Bar,2183,43,False,7
+2,1,Pam,88057,1406,False,355
+2,1,Pam and Jim,2197,45,False,5
+2,1,Phyllis,20772,179,False,46
+2,1,Roy,12724,156,False,39
+2,1,Ryan,4298,68,False,27
+2,1,Stanley,16794,188,False,88
+2,2,Actor,5124,56,False,11
+2,2,Albiny,5224,72,False,26
+2,2,Angela,5038,42,False,24
+2,2,Darryl,22705,202,False,124
+2,2,Dwight,27509,193,False,76
+2,2,Jan,28551,371,False,104
+2,2,Jim,39355,179,False,169
+2,2,Kevin,15685,212,False,25
+2,2,Kevin's computer,2444,9,False,2
+2,2,Man in Video,2558,28,False,37
+2,2,Meredith,2523,21,False,5
+2,2,Michael,252341,2161,False,1596
+2,2,Mr. O'Malley,2579,31,False,4
+2,2,Pam,69456,831,False,235
+2,2,Pam's Mom,47460,744,False,66
+2,2,Phyllis,15873,236,False,37
+2,2,Redheaded Actress,2562,28,False,3
+2,2,Roy,35770,388,False,71
+2,2,Ryan,2442,8,False,6
+2,2,Stanley,2522,21,False,17
+2,2,Toby,65277,530,False,255
+2,2,Todd Packer,50104,357,False,260
+2,2,Video,5101,52,False,13
+2,2,Warehouse Guy,2483,18,False,1
+2,2,Warehouse guy,5067,46,False,7
+2,2,Warehouse guys,2501,18,False,5
+2,3,Angela,17374,179,False,56
+2,3,Bill,5653,30,False,17
+2,3,Carol,43004,354,False,110
+2,3,Crowd,2965,43,False,3
+2,3,Dwight,165860,1351,False,590
+2,3,Everyone,2944,40,False,1
+2,3,Jim,161757,1609,False,515
+2,3,Kevin,25401,126,False,50
+2,3,Meredith,2909,32,False,1
+2,3,Michael,236458,1786,False,1054
+2,3,Oscar,28431,188,False,37
+2,3,Pam,100046,848,False,235
+2,3,Phyllis,5815,64,False,9
+2,3,Ryan,14085,89,False,90
+2,3,Stanley,8752,101,False,27
+2,4,Angela,54362,314,False,71
+2,4,Dwight,212436,1802,False,670
+2,4,Dwight and Michael,10207,130,False,26
+2,4,Jim,167736,1621,False,451
+2,4,Katy,37590,504,False,54
+2,4,Kelly,13090,104,False,13
+2,4,Kevin,16781,198,False,28
+2,4,Meredith,13207,132,False,28
+2,4,Michael,226167,1992,False,982
+2,4,Oscar,12765,72,False,26
+2,4,Pam,72045,648,False,183
+2,4,Phyllis,19653,166,False,21
+2,4,Roy,20061,225,False,58
+2,4,Ryan,130856,1145,False,252
+2,4,Song,19970,222,False,11
+2,4,Stanley,16405,156,False,28
+2,4,song,3308,36,False,13
+2,5,Angela,46921,155,False,81
+2,5,Children,3768,41,False,9
+2,5,Creed,59653,517,False,148
+2,5,Devon,30034,290,False,90
+2,5,Dwight,119728,575,False,470
+2,5,Hank the Security Guard,11412,135,False,8
+2,5,Jim,109999,720,False,448
+2,5,Kelly,10740,18,False,31
+2,5,Kevin,7166,16,False,3
+2,5,Kid,11316,123,False,10
+2,5,Michael,408876,2329,False,1333
+2,5,Oscar,25224,89,False,21
+2,5,Pam,97245,344,False,219
+2,5,Phyllis,10673,12,False,8
+2,5,Ryan,3651,23,False,11
+2,5,Sherri,38731,22,False,60
+2,5,Stanley,10920,57,False,16
+2,6,Angela,12182,75,False,15
+2,6,Dwight,280135,1217,False,593
+2,6,Ira,36535,212,False,60
+2,6,Jim,193366,533,False,483
+2,6,Kelly,12042,60,False,8
+2,6,Kevin,12090,61,False,6
+2,6,Master,12402,105,False,16
+2,6,Michael,346100,1747,False,1315
+2,6,Pam,99587,401,False,260
+2,6,Ryan,71477,246,False,86
+2,6,Ryan's Voicemail,4084,26,False,26
+2,6,Stanley,12115,65,False,20
+2,6,Toby,20100,96,False,28
+2,7,Christian,82415,463,False,168
+2,7,Dwight,95787,593,False,246
+2,7,Everyone,4312,19,False,2
+2,7,Hostess,4269,13,False,3
+2,7,Jan,196845,724,False,342
+2,7,Jim,173971,1072,False,481
+2,7,Kelly,4224,7,False,9
+2,7,Kevin,4352,26,False,7
+2,7,Michael,314536,1483,False,1106
+2,7,Michael and Christian,8711,53,False,11
+2,7,Oscar,17002,48,False,45
+2,7,Pam,138695,780,False,307
+2,7,Phyllis,17331,88,False,20
+2,7,Roy,4348,25,False,7
+2,7,Ryan,25631,80,False,40
+2,7,Toby,4216,7,False,3
+2,8,Angela,23172,104,False,65
+2,8,Creed,4669,25,False,11
+2,8,Dwight,194811,827,False,545
+2,8,Jan,242532,1249,False,507
+2,8,Jim,119245,348,False,210
+2,8,Kelly,9248,42,False,16
+2,8,Kevin,18358,67,False,16
+2,8,Michael,511837,2497,False,1786
+2,8,Oscar,23678,167,False,74
+2,8,Pam,138014,498,False,234
+2,8,Phyllis,4661,25,False,23
+2,8,Ryan,4593,17,False,5
+2,8,Stanley,18188,37,False,49
+2,8,Toby,4667,25,False,6
+2,9,Actor,5084,25,False,6
+2,9,Actress,5085,25,False,1
+2,9,Angela,65518,263,False,49
+2,9,Bill,25706,150,False,72
+2,9,Dwight,169729,514,False,312
+2,9,Girl acting Pregnant,5082,25,False,16
+2,9,Improv Teacher,76532,381,False,127
+2,9,Jim,267094,1104,False,480
+2,9,Kelly,5140,29,False,19
+2,9,Kevin,40167,149,False,68
+2,9,Mark,10119,44,False,10
+2,9,Mary-Beth,15397,92,False,19
+2,9,Michael,401840,1442,False,1261
+2,9,Michael and Jim,10334,72,False,47
+2,9,Oscar,29902,78,False,48
+2,9,Pam,191420,757,False,315
+2,9,Phyllis,20606,128,False,52
+2,9,Ryan,10146,44,False,12
+2,9,Sadiq (IT guy),19646,15,False,19
+2,9,Stanley,10078,36,False,20
+2,10,All,5375,17,False,10
+2,10,Angela,48658,192,False,71
+2,10,Bob Vance,22132,198,False,23
+2,10,Creed,21741,117,False,26
+2,10,Darryl,60159,389,False,60
+2,10,Dwight,233276,1136,False,427
+2,10,JIm,5495,41,False,2
+2,10,Jim,146950,827,False,391
+2,10,Kelly,49387,364,False,70
+2,10,Kevin,65531,415,False,119
+2,10,Kevin & Oscar,5340,9,False,11
+2,10,Liquor Store Clerk,10968,80,False,13
+2,10,Meredith,55036,430,False,50
+2,10,Michael,489352,2599,False,1367
+2,10,Oscar,54889,419,False,106
+2,10,Pam,93030,620,False,178
+2,10,Phyllis,32748,205,False,62
+2,10,"Phyllis, Meredith, Michael, Kevin",5536,49,False,6
+2,10,Roy,44130,364,False,77
+2,10,Ryan,82097,541,False,117
+2,10,Stanley,27277,165,False,42
+2,10,Toby,16299,84,False,39
+2,10,Todd Packer,16671,159,False,28
+2,11,Angela,5793,24,False,7
+2,11,Brenda,17390,73,False,14
+2,11,Captain Jack,191251,785,False,383
+2,11,Creed,5960,47,False,61
+2,11,Darryl,17237,47,False,14
+2,11,Darryl and Katy,5795,25,False,5
+2,11,Dwight,149902,474,False,323
+2,11,Jim,179404,719,False,265
+2,11,Katy,82030,477,False,99
+2,11,Kelly,22812,24,False,25
+2,11,Meredith,17317,59,False,4
+2,11,Michael,456012,1585,False,1243
+2,11,Oscar,5710,9,False,14
+2,11,Pam,103718,330,False,139
+2,11,Phyllis,34800,142,False,31
+2,11,Roy,69676,309,False,160
+2,11,Ryan,11394,12,False,26
+2,11,Stanley,57450,140,False,50
+2,12,Angela,30810,99,False,41
+2,12,Billy Merchant,105136,324,False,187
+2,12,Creed,6147,17,False,11
+2,12,Doctor,25270,132,False,34
+2,12,Dwight,371752,1271,False,328
+2,12,Jim,340404,1139,False,359
+2,12,Jim and Pam,6046,4,False,3
+2,12,Kelly,6162,18,False,9
+2,12,Kevin,12182,22,False,8
+2,12,Lab Tech,19001,105,False,40
+2,12,Meredith,6225,27,False,5
+2,12,Michael,763652,2145,False,1536
+2,12,Oscar,18687,73,False,22
+2,12,Pam,350432,898,False,342
+2,12,Phyllis,18318,38,False,21
+2,12,Ryan,79954,215,False,101
+2,12,Stanley,24630,70,False,17
+2,12,Toby,42923,112,False,45
+2,13,Angela,32631,101,False,22
+2,13,Creed,19899,114,False,24
+2,13,Dana,52382,182,False,42
+2,13,Dwight,247154,665,False,512
+2,13,Gil,13266,76,False,3
+2,13,Hooter's Girls,6568,24,False,40
+2,13,Jim,327535,1234,False,454
+2,13,Kelly,32600,94,False,51
+2,13,Kevin,52238,171,False,48
+2,13,Michael,599281,1701,False,1114
+2,13,Oscar,58219,110,False,62
+2,13,Pam,177767,814,False,197
+2,13,Phylis,6598,31,False,8
+2,13,Ryan,45669,145,False,50
+2,13,Stanley,19406,34,False,7
+2,13,Toby,19778,88,False,27
+2,14,Angela,20698,130,False,24
+2,14,Creed,61718,291,False,62
+2,14,Darryl,20635,111,False,17
+2,14,Dwight,170508,617,False,151
+2,14,Ed,62379,405,False,65
+2,14,Jim,226085,1026,False,293
+2,14,Jim's voicemail,6965,50,False,5
+2,14,Kelly,68310,269,False,223
+2,14,Kevin,54176,109,False,62
+2,14,Michael,690944,2870,False,1460
+2,14,Michael and Dwight,6833,28,False,21
+2,14,Oscar,34256,160,False,43
+2,14,Packer,48686,336,False,27
+2,14,Pam,191299,753,False,371
+2,14,Pam and others,6750,9,False,14
+2,14,Phyllis,6869,36,False,5
+2,14,Roy,41284,223,False,34
+2,14,Ryan,88890,368,False,131
+2,14,Stanley,13702,63,False,36
+2,14,Toby,55674,437,False,28
+2,14,Todd,6949,48,False,10
+2,14,Todd Packer,6945,48,False,11
+2,15,All the Men,7327,48,False,4
+2,15,Angela,36024,146,False,70
+2,15,Darryl,194432,813,False,242
+2,15,Dwight,85649,237,False,83
+2,15,Group chant,7239,33,False,4
+2,15,Guy,28859,132,False,18
+2,15,Jan,394567,1269,False,696
+2,15,Jim,158991,696,False,100
+2,15,Kelly,65145,307,False,123
+2,15,Kevin,28553,79,False,42
+2,15,Lonny,21561,86,False,37
+2,15,Madge,14334,52,False,9
+2,15,Men,7231,33,False,2
+2,15,Meredith,35833,125,False,33
+2,15,Michael,546201,1986,False,1047
+2,15,Pam,188248,866,False,366
+2,15,Phyllis,64751,252,False,62
+2,15,Roy,107464,362,False,146
+2,15,Ryan,14414,61,False,22
+2,15,Stanley,7264,37,False,9
+2,15,Women,7146,22,False,4
+2,16,Angela,29760,87,False,29
+2,16,Craig,89738,341,False,132
+2,16,Creed,7576,50,False,5
+2,16,Dan,7512,35,False,7
+2,16,David,90116,394,False,119
+2,16,Delivery man,37146,98,False,25
+2,16,Dwight,140977,312,False,252
+2,16,Jan,120324,555,False,215
+2,16,Jim,126520,349,False,242
+2,16,Josh,82071,276,False,81
+2,16,Kelly,96824,278,False,213
+2,16,Kevin,37197,111,False,27
+2,16,Meredith,14736,8,False,11
+2,16,Michael,358311,1181,False,1231
+2,16,Oscar,14891,40,False,22
+2,16,Pam,179293,622,False,244
+2,16,Phyllis,22333,59,False,17
+2,16,Roy,37685,190,False,34
+2,16,Ryan,29831,91,False,22
+2,17,Angela,30959,107,False,43
+2,17,Creed,30790,59,False,33
+2,17,Crowd,62238,286,False,20
+2,17,Dwight,409079,1160,False,664
+2,17,Jim,270175,739,False,424
+2,17,Kelly,38680,132,False,53
+2,17,Kevin,30948,102,False,29
+2,17,Meredith,7838,46,False,6
+2,17,Michael,455423,1294,False,1108
+2,17,Oscar,23146,69,False,58
+2,17,Overhead,7756,30,False,6
+2,17,Pam,154652,498,False,230
+2,17,Phyllis,38483,88,False,20
+2,17,Ryan,54295,209,False,69
+2,17,Speaker,15523,64,False,18
+2,17,Stanley,38473,90,False,32
+2,17,Toby,30868,76,False,26
+2,18,Abby,95643,263,False,50
+2,18,Angela,31734,63,False,67
+2,18,Chet,16093,64,False,9
+2,18,Creed,32045,112,False,22
+2,18,Darryl,8048,32,False,6
+2,18,Dwight,183882,561,False,340
+2,18,Edward R. Meow,56359,224,False,66
+2,18,Jake,160980,612,False,80
+2,18,Jim,143805,421,False,165
+2,18,Jim and Dwight,7889,4,False,4
+2,18,Kelly,47649,102,False,69
+2,18,Kevin,40173,133,False,52
+2,18,Kids,16031,57,False,3
+2,18,Melissa,112121,367,False,105
+2,18,Meredith,15814,21,False,39
+2,18,Michael,624979,2026,False,1278
+2,18,Michael and Dwight,16270,80,False,45
+2,18,Miss Trudy,16096,64,False,28
+2,18,Oscar,8045,32,False,4
+2,18,Pam,168493,525,False,221
+2,18,Roy,8078,33,False,12
+2,18,Ryan,79816,233,False,64
+2,18,Sasha,63817,175,False,43
+2,18,Stanley,55836,151,False,117
+2,18,The Kids,7994,25,False,6
+2,18,Toby,104699,395,False,85
+2,18,Young Michael,16114,64,False,28
+2,19,Angela,99931,245,False,77
+2,19,Carol,33724,144,False,22
+2,19,Delivery Boy,16646,40,False,17
+2,19,Delivery Woman,24862,42,False,9
+2,19,Dwight,374663,937,False,497
+2,19,Jan,41275,40,False,24
+2,19,Jim,183610,503,False,160
+2,19,Kelly,33220,63,False,46
+2,19,Kevin,117101,363,False,90
+2,19,Meredith,8222,5,False,5
+2,19,Michael,724055,1686,False,1271
+2,19,Office Staff,8364,27,False,19
+2,19,Oscar,57935,88,False,31
+2,19,Pam,216956,598,False,188
+2,19,Phyllis,16482,14,False,16
+2,19,Ryan,24965,58,False,25
+2,19,Stanley,25002,61,False,18
+2,19,Store Employee,8384,28,False,10
+2,19,Toby,66492,136,False,64
+2,20,Angela,60160,164,False,36
+2,20,Creed,8531,14,False,6
+2,20,Dwight,608799,1455,False,835
+2,20,Hank,43390,190,False,32
+2,20,Jim,170910,311,False,230
+2,20,Kelly,42727,83,False,149
+2,20,Kevin,51436,122,False,20
+2,20,Linda,43197,157,False,32
+2,20,Michael,430248,1285,False,1026
+2,20,Oscar,51265,92,False,43
+2,20,Pam,128900,356,False,341
+2,20,Pam/Jim,8550,16,False,9
+2,20,Phyllis,25645,50,False,10
+2,20,Ryan,59784,105,False,49
+2,20,Stanley,51435,126,False,42
+2,20,Toby,42989,123,False,50
+2,21,Angela,106260,207,False,103
+2,21,Anglea,8898,25,False,15
+2,21,Creed,26672,70,False,60
+2,21,Dwight,294781,1145,False,353
+2,21,Female worker,9027,58,False,6
+2,21,I.D. Photographer,8786,6,False,1
+2,21,Jim,250743,1127,False,370
+2,21,Kelly,17768,48,False,18
+2,21,Kevin,26474,34,False,22
+2,21,Michael,784002,2636,False,1463
+2,21,Oscar,79372,95,False,109
+2,21,Pam,213096,541,False,227
+2,21,Photographer,89494,405,False,103
+2,21,Phyllis,106449,254,False,76
+2,21,Ryan,35267,48,False,17
+2,21,Stanley,35748,142,False,24
+2,21,Toby,194720,368,False,279
+2,22,Angela,46215,136,False,44
+2,22,Billy,37131,133,False,29
+2,22,Billy's Girlfriend,18538,62,False,10
+2,22,Bob,18774,96,False,23
+2,22,Bob Vance,9366,46,False,3
+2,22,Carol,278394,982,False,140
+2,22,Creed,36939,98,False,64
+2,22,Darryl,73358,132,False,74
+2,22,Dealer,46556,188,False,39
+2,22,Dwight,314661,966,False,308
+2,22,Jan,371843,1377,False,276
+2,22,Jim,481697,1555,False,446
+2,22,Kelly,9129,9,False,8
+2,22,Kevin,149326,655,False,120
+2,22,Meredith,9290,34,False,1
+2,22,Michael,952506,2805,False,1309
+2,22,Oscar,36930,98,False,29
+2,22,Pam,417019,1389,False,378
+2,22,Phyllis,74592,309,False,42
+2,22,Roy,102862,474,False,83
+2,22,Ryan,9346,43,False,19
+2,22,Stanley,28203,146,False,18
+2,22,Toby,46455,171,False,76
+3,1,Andy,76623,263,False,162
+3,1,Angela,38256,114,False,48
+3,1,Creed,9592,40,False,40
+3,1,Dwight,172122,490,False,175
+3,1,Jan,115168,491,False,141
+3,1,Jim,124013,243,False,124
+3,1,Josh,9525,15,False,47
+3,1,Karen,9527,16,False,29
+3,1,Kelly,9559,27,False,11
+3,1,Kevin,9596,41,False,4
+3,1,Meredith,19311,119,False,11
+3,1,Michael,603660,2150,False,1112
+3,1,Oscar,163038,628,False,230
+3,1,Pam,115121,451,False,120
+3,1,Phyllis,28808,128,False,33
+3,1,Roy,38216,94,False,56
+3,1,Ryan,9489,1,False,23
+3,1,Stanley,9558,26,False,45
+3,1,Toby,95293,151,False,108
+3,2,Alan,79308,303,False,76
+3,2,Angela,97666,147,False,99
+3,2,Creed,19456,18,False,29
+3,2,Dwight,432118,1065,False,233
+3,2,Dwight and Michael,9725,8,False,4
+3,2,Evan,59504,221,False,41
+3,2,Guy,19818,74,False,12
+3,2,Jan,147734,435,False,120
+3,2,Jerome Bettis,39192,84,False,16
+3,2,Jim,315620,978,False,276
+3,2,"Jim, Josh, and Dwight",9871,31,False,2
+3,2,Josh,266068,799,False,233
+3,2,Kelly,78169,136,False,106
+3,2,Kevin,29244,45,False,19
+3,2,Meredith,9728,9,False,6
+3,2,Michael,1199469,3092,False,1438
+3,2,Pam,292882,446,False,202
+3,2,Phyllis,19710,58,False,23
+3,2,Ryan,79127,265,False,36
+3,2,Stanley,9855,29,False,11
+3,2,Ted,9814,23,False,4
+3,2,Toby,58792,130,False,33
+3,2,Waiter,9845,28,False,6
+3,3,Andy,101094,340,False,60
+3,3,Angela,131281,374,False,126
+3,3,Creed,30701,161,False,43
+3,3,Dwight,781218,2923,False,776
+3,3,Jan,282446,796,False,235
+3,3,Jim,173222,805,False,241
+3,3,Josh,80994,294,False,67
+3,3,Karen,81373,348,False,73
+3,3,Kelly,80594,217,False,64
+3,3,Kevin,50691,169,False,36
+3,3,Michael,843437,3300,False,909
+3,3,Pam,202361,657,False,268
+3,3,Phyllis,50780,202,False,25
+3,3,Roy,20218,66,False,9
+3,3,Ryan,10269,60,False,10
+3,3,Stanley,30643,148,False,21
+3,4,Andy,41540,52,False,35
+3,4,Angela,73213,172,False,41
+3,4,Creed,62081,54,False,53
+3,4,Dwight,417456,844,False,490
+3,4,Hannah,42108,148,False,45
+3,4,Jan,177077,338,False,154
+3,4,Jim,198242,398,False,228
+3,4,Josh,30994,21,False,27
+3,4,Karen,156107,243,False,114
+3,4,Kelly,52257,109,False,49
+3,4,Kevin,94868,362,False,93
+3,4,Man,10599,55,False,9
+3,4,Meredith,10473,23,False,8
+3,4,Michael,1105768,2268,False,1756
+3,4,Pam,355946,947,False,470
+3,4,Phyllis,31170,42,False,16
+3,4,Roy,157877,577,False,122
+3,4,Ryan,72834,123,False,151
+3,4,Ryan and others,10305,1,False,6
+3,4,Stanley,62710,141,False,35
+3,4,Toby,105347,384,False,146
+3,5,Andy,86026,255,False,80
+3,5,Angela,42916,120,False,20
+3,5,Announcer,10655,14,False,25
+3,5,Bob,21354,40,False,9
+3,5,Cousin Mose,10740,31,False,5
+3,5,Dwight,611901,1610,False,990
+3,5,Jan,117793,196,False,83
+3,5,Jim,507476,1755,False,317
+3,5,Karen,139331,334,False,104
+3,5,Kelly,64250,160,False,57
+3,5,Kevin,43184,169,False,49
+3,5,Michael,472898,1343,False,599
+3,5,Pam,604757,2140,False,407
+3,5,Phyllis,21438,57,False,10
+3,5,Pretzel guy,32130,78,False,46
+3,5,Ryan,461442,1199,False,500
+3,5,Stanley,96976,324,False,105
+3,5,Toby,10761,37,False,1
+3,6,Andy,199179,617,False,175
+3,6,Andy and Jim,44328,160,False,36
+3,6,Angela,109941,201,False,100
+3,6,Carol,210646,719,False,113
+3,6,Creed,10973,16,False,8
+3,6,Crowd,22171,80,False,6
+3,6,Dwight,88111,172,False,73
+3,6,Girls,11014,26,False,7
+3,6,Jan,133742,552,False,97
+3,6,Jim,220864,594,False,135
+3,6,Josh,21974,36,False,28
+3,6,Karen,166044,521,False,65
+3,6,Kelly,220020,399,False,195
+3,6,Kelly's Father,33141,103,False,19
+3,6,Kelly's Mom,55218,167,False,37
+3,6,Kevin,99283,224,False,102
+3,6,Meredith,21899,20,False,21
+3,6,Michael,851100,2389,False,1258
+3,6,Mr. Kapoor,11165,48,False,1
+3,6,Mrs. Kapoor,11163,48,False,3
+3,6,Overhead,11034,32,False,43
+3,6,Pam,287626,873,False,168
+3,6,Phyllis,21917,25,False,23
+3,6,Roy,10934,6,False,7
+3,6,Ryan,133116,460,False,62
+3,6,Server,11005,23,False,3
+3,6,Stanley,10939,7,False,4
+3,6,Toby,21964,32,False,12
+3,6,Tony,21928,28,False,23
+3,6,Young Man,11069,38,False,6
+3,7,Andy,56513,119,False,44
+3,7,Angela,79290,197,False,45
+3,7,Darryl,45068,84,False,29
+3,7,Dwight,431051,1279,False,311
+3,7,Dwight ,11229,8,False,50
+3,7,Dwight:,11438,50,False,13
+3,7,Jan,361198,709,False,358
+3,7,Jim,237536,560,False,295
+3,7,Josh,135829,377,False,76
+3,7,Karen,102034,276,False,115
+3,7,Kelly,22641,55,False,48
+3,7,Kevin,136469,451,False,58
+3,7,M ichael,11323,32,False,6
+3,7,Michael,757178,1607,False,758
+3,7,Michael ,11325,32,False,17
+3,7,Michael and Dwight,22884,100,False,10
+3,7,Pam,249539,696,False,183
+3,7,Phyllis,91040,311,False,58
+3,7,Roy,45374,131,False,59
+3,7,Ryan,79423,237,False,134
+3,7,Stanley,11259,17,False,24
+3,7,Toby,33949,73,False,55
+3,8,Andy,648192,2516,False,477
+3,8,Andy & Michael,23520,94,False,9
+3,8,Angela,82768,357,False,37
+3,8,Creed,23461,85,False,10
+3,8,Dwight,983005,2908,False,647
+3,8,Hannah,141266,535,False,64
+3,8,Jan,71178,336,False,52
+3,8,Jim,949540,3052,False,500
+3,8,Karen,352232,1221,False,205
+3,8,Kelly,69908,172,False,59
+3,8,Kevin,249063,1115,False,151
+3,8,Male voice,11654,30,False,4
+3,8,Martin,82660,341,False,40
+3,8,Meredith,131473,705,False,64
+3,8,Michael,1750883,6218,False,1961
+3,8,Michael & Dwight,11672,31,False,4
+3,8,Michael and Dwight,11684,34,False,5
+3,8,Pam,526097,1475,False,361
+3,8,Phyllis,94148,374,False,60
+3,8,Ryan,128619,366,False,63
+3,8,Stanley,47271,205,False,51
+3,8,Toby,185533,343,False,91
+3,8,Tony,259028,992,False,126
+3,8,Video,23349,65,False,7
+3,9,Andy,206347,279,False,215
+3,9,Angela,120913,88,False,97
+3,9,Creed,24306,38,False,24
+3,9,Dwight,48518,52,False,60
+3,9,Hannah,60381,32,False,10
+3,9,Jan,84448,28,False,61
+3,9,Jim,376376,541,False,312
+3,9,Karen,121440,180,False,47
+3,9,Kevin,157367,131,False,78
+3,9,Martin,133622,203,False,190
+3,9,Meredith,12140,17,False,5
+3,9,Michael,655519,891,False,1194
+3,9,Pam,193911,218,False,90
+3,9,Phyllis,12161,23,False,5
+3,9,Ryan,36485,61,False,14
+3,9,Stanley,24206,24,False,5
+3,9,Toby,48881,119,False,77
+3,10,Andy,349617,916,False,331
+3,10,Andy and Michael,12637,57,False,53
+3,10,Angela,641229,2490,False,799
+3,10,Both,25280,114,False,15
+3,10,Carol,221495,153,False,114
+3,10,Chef,25004,70,False,15
+3,10,Cindy,25061,79,False,14
+3,10,Creed,49913,147,False,74
+3,10,Darryl,37715,135,False,47
+3,10,Dwight,770900,1654,False,763
+3,10,Everybody,12570,45,False,10
+3,10,Hannah,25101,83,False,20
+3,10,Jim,561280,1499,False,501
+3,10,Karen,437771,1285,False,346
+3,10,Kelly,241304,1416,False,231
+3,10,Kevin,187663,558,False,163
+3,10,Man,12540,43,False,2
+3,10,Meredith,37467,99,False,10
+3,10,Michael,1435179,3880,False,1697
+3,10,Oscar,12695,70,False,9
+3,10,Other waitress,25222,104,False,9
+3,10,Pam,708589,1481,False,495
+3,10,Phyllis,187936,622,False,91
+3,10,Roy,75266,252,False,54
+3,10,Ryan,278551,1470,False,205
+3,10,Second Cindy,164483,790,False,59
+3,10,Stanley,62744,239,False,58
+3,10,Toby,187305,584,False,120
+3,10,Waitress,12478,29,False,6
+3,10,Woman at bar,12505,35,False,11
+3,11,Andy,130064,463,False,83
+3,11,Angela,90638,215,False,65
+3,11,Creed,52229,221,False,51
+3,11,Darryl,77264,89,False,46
+3,11,Dwight,504803,1200,False,476
+3,11,Everybody,25674,18,False,7
+3,11,Jan,181785,485,False,231
+3,11,Jim,425603,695,False,269
+3,11,Karen,115904,139,False,110
+3,11,Kelly,26102,108,False,17
+3,11,Kevin,130003,410,False,113
+3,11,Meredith,26134,118,False,41
+3,11,Michael,1292440,2450,False,1534
+3,11,Packer,89936,77,False,60
+3,11,Pam,555530,1013,False,423
+3,11,Phyllis,64820,166,False,68
+3,11,Roy,90810,246,False,73
+3,11,Ryan,26101,108,False,49
+3,11,Someone,26096,104,False,8
+3,11,Stanley,129568,340,False,93
+3,11,Toby,116501,267,False,91
+3,12,Andy,383261,614,False,620
+3,12,Angela,171629,230,False,169
+3,12,Buyer,26419,44,False,25
+3,12,Dwight,437727,980,False,439
+3,12,Guy,13235,27,False,1
+3,12,Harvey,91765,7,False,42
+3,12,Jan,13301,38,False,30
+3,12,Jim,383445,649,False,295
+3,12,Julius,39706,81,False,13
+3,12,Karen,199102,466,False,74
+3,12,Kelly,26540,64,False,24
+3,12,Kenny,13231,26,False,17
+3,12,Kevin,52500,8,False,41
+3,12,Man,66288,152,False,40
+3,12,Michael,633773,883,False,556
+3,12,Pam,118341,75,False,37
+3,12,Phone,13266,32,False,10
+3,12,Phyllis,132148,201,False,84
+3,12,Ryan,105759,175,False,63
+3,12,Stanley,105638,154,False,74
+3,13,Andy,537884,851,False,582
+3,13,Angela,188482,339,False,118
+3,13,Creed,40641,114,False,15
+3,13,Dwight,336695,606,False,255
+3,13,Everybody,13539,37,False,3
+3,13,Jim,336441,584,False,131
+3,13,Karen,53888,101,False,42
+3,13,Kevin,40191,33,False,22
+3,13,Lady,26876,36,False,10
+3,13,MIchael,13429,16,False,71
+3,13,Marcy,40692,132,False,22
+3,13,Meredith,27094,76,False,4
+3,13,Michael,646671,1223,False,608
+3,13,Oscar,147777,197,False,97
+3,13,Pam,134853,285,False,57
+3,13,Paris,80819,157,False,55
+3,13,Phyllis,40384,73,False,37
+3,13,Ryan,40359,69,False,14
+3,13,Stanley,26920,48,False,8
+3,13,Staples Guy,13413,14,False,9
+3,14,Angela,68360,115,False,36
+3,14,Ben Franklin,329598,746,False,204
+3,14,Bob Vance,13753,34,False,8
+3,14,Dwight,396931,692,False,207
+3,14,Elizabeth,233853,574,False,95
+3,14,Jan,82832,252,False,43
+3,14,Jim,341602,544,False,176
+3,14,Karen,205414,392,False,149
+3,14,Kelly,41418,126,False,37
+3,14,Kevin,41260,99,False,31
+3,14,Meredith,27324,43,False,8
+3,14,Michael,1053189,1752,False,1077
+3,14,Packer,163350,198,False,112
+3,14,Pam,410997,790,False,255
+3,14,Roy,13750,33,False,27
+3,14,Ryan,82515,204,False,31
+3,14,Stanley,13726,30,False,5
+3,15,Angela,41608,53,False,25
+3,15,Bob Vance,97621,263,False,36
+3,15,Crowd,41798,103,False,6
+3,15,Dwight,347131,512,False,283
+3,15,Jim,263845,381,False,181
+3,15,Karen,55544,88,False,43
+3,15,Kelly,83420,163,False,64
+3,15,Kevin,55643,115,False,89
+3,15,Meredith,13888,22,False,11
+3,15,Michael,682516,1625,False,965
+3,15,Pam,208957,507,False,105
+3,15,Photographer,13840,7,False,28
+3,15,Phyllis,208484,383,False,99
+3,15,Priest,55611,112,False,34
+3,15,Randy,27901,78,False,13
+3,15,Roy,125610,365,False,109
+3,15,Stanley,27692,22,False,4
+3,15,Toby,27875,72,False,5
+3,15,Uncle Al,97686,288,False,43
+3,15,Unknown,13951,39,False,2
+3,15,Women,13989,50,False,19
+3,16,Angela,70834,188,False,32
+3,16,Artist,14168,40,False,3
+3,16,Business Student #1,56427,112,False,49
+3,16,Business Student #2,42313,86,False,41
+3,16,Business Student #3,28206,56,False,11
+3,16,College Student,14047,12,False,1
+3,16,Creed,113189,288,False,21
+3,16,Dwight,352644,663,False,346
+3,16,Gil,56656,156,False,34
+3,16,Jim,282665,636,False,179
+3,16,Karen,84612,154,False,70
+3,16,Kelly,155380,327,False,129
+3,16,Kenny,42657,149,False,46
+3,16,Kevin,98415,89,False,37
+3,16,Meredith,170430,532,False,97
+3,16,Michael,918523,1955,False,1301
+3,16,Oscar,127742,386,False,64
+3,16,Pam,409853,910,False,200
+3,16,Roy,112841,204,False,70
+3,16,Ryan,225392,335,False,149
+3,16,Stanley,28262,58,False,13
+3,16,Student 1,14229,50,False,14
+3,16,Student 2,71175,250,False,16
+3,16,Student 3,14241,50,False,14
+3,16,Toby,42215,62,False,61
+3,16,Woman,56544,140,False,6
+3,17,Angela,43503,127,False,17
+3,17,Bartender,14391,27,False,2
+3,17,Child,28984,78,False,13
+3,17,Creed,28886,65,False,27
+3,17,Dan Gore,14378,25,False,1
+3,17,David,115426,252,False,58
+3,17,Dwight,503926,878,False,274
+3,17,Everyone,14359,18,False,1
+3,17,Jan,677849,1363,False,538
+3,17,Jim,316930,580,False,200
+3,17,Karen,202569,519,False,177
+3,17,Kelly,58056,179,False,31
+3,17,Kenny,101201,240,False,18
+3,17,Kevin,173214,373,False,62
+3,17,Man,14392,28,False,7
+3,17,Melissa,87518,354,False,20
+3,17,Meredith,29140,110,False,7
+3,17,Michael,1221986,1809,False,954
+3,17,Oscar,14575,56,False,7
+3,17,Pam,346242,708,False,252
+3,17,Rachel,158754,353,False,69
+3,17,Roy,347136,859,False,215
+3,17,Ryan,174495,600,False,98
+3,17,Stanley,72950,291,False,47
+3,17,Student 1,14441,32,False,2
+3,17,Student 2,14443,32,False,4
+3,17,Toby,72575,216,False,27
+3,17,Waiter,43711,165,False,26
+3,18,Andy,29903,109,False,68
+3,18,Angela,162803,334,False,61
+3,18,Creed,44454,102,False,67
+3,18,Darryl,636325,1291,False,413
+3,18,Dwight,266321,525,False,344
+3,18,Hunter,14880,41,False,7
+3,18,Jan,444946,1022,False,308
+3,18,Jim,603129,689,False,340
+3,18,Karen,235032,221,False,213
+3,18,Kelly,206915,368,False,207
+3,18,Kevin,117992,184,False,59
+3,18,Michael,1581569,2915,False,1309
+3,18,Oscar,58616,36,False,62
+3,18,Pam,236500,428,False,142
+3,18,Phyllis,59364,144,False,18
+3,18,Roy,118663,272,False,136
+3,18,Ryan,132748,198,False,55
+3,18,Stanley,59453,161,False,36
+3,18,Toby,251177,427,False,124
+3,19,Andy,515331,992,False,404
+3,19,Angela,76429,244,False,46
+3,19,Creed,60775,137,False,47
+3,19,Darry,15023,11,False,14
+3,19,Darryl,482621,600,False,385
+3,19,Dwight,1062226,2106,False,630
+3,19,Everyone,30411,71,False,6
+3,19,Guy,15011,11,False,2
+3,19,Jim,469108,794,False,209
+3,19,Karen,75671,119,False,28
+3,19,Kelly,166895,334,False,129
+3,19,Kevin,332858,528,False,178
+3,19,Larry,30560,94,False,9
+3,19,Lonny,180468,135,False,79
+3,19,Madge,29980,14,False,6
+3,19,Michael,1546251,2883,False,1427
+3,19,Micheal,15110,19,False,21
+3,19,Oscar,45166,39,False,16
+3,19,Pam,317921,519,False,111
+3,19,Phyllis,45860,146,False,21
+3,19,Ryan,136859,320,False,77
+3,19,Stanley,76289,218,False,47
+3,19,Toby,120498,118,False,128
+3,20,Andy,870207,2190,False,597
+3,20,Angela,389909,1204,False,253
+3,20,Barbara,217074,470,False,95
+3,20,Barbara Allen,62594,228,False,13
+3,20,Chad Lite,139594,307,False,39
+3,20,Creed,233143,586,False,335
+3,20,Denise,141300,612,False,53
+3,20,Dwight,652172,1524,False,579
+3,20,Jamie,93372,256,False,24
+3,20,Jim,1149711,2837,False,452
+3,20,Karen,62140,144,False,20
+3,20,Kelly,389479,1142,False,502
+3,20,Kevin,155194,349,False,88
+3,20,Michael,1055001,2330,False,1177
+3,20,Oscar,139793,334,False,79
+3,20,Pam,248455,577,False,158
+3,20,Phyllis,15354,4,False,16
+3,20,Ryan,46343,65,False,105
+3,20,School Official,61952,126,False,23
+3,20,Spanish Teacher,46977,174,False,19
+3,20,Stanley,15355,4,False,9
+3,21,Andy,255318,529,False,280
+3,21,Angela,174610,190,False,142
+3,21,Bob,16041,44,False,5
+3,21,Creed,95276,111,False,87
+3,21,Dwight,730626,921,False,680
+3,21,Hunter,15806,6,False,6
+3,21,Jan,271239,528,False,195
+3,21,Jim,523558,601,False,275
+3,21,Karen,238462,314,False,158
+3,21,Kelly,111917,260,False,37
+3,21,Kevin,174858,233,False,70
+3,21,Meredith,79483,107,False,48
+3,21,Michael,1463839,2219,False,1758
+3,21,Pam,572182,789,False,345
+3,21,Phyllis,190506,211,False,108
+3,21,Ryan,79409,100,False,56
+3,21,Stanley,32078,88,False,15
+3,21,Toby,110815,75,False,57
+3,22,All,16358,61,False,1
+3,22,Andy,341314,904,False,295
+3,22,Angela,129978,340,False,76
+3,22,Creed,32535,91,False,25
+3,22,David,144801,36,False,59
+3,22,Dwight,812216,1984,False,412
+3,22,Everyone,16406,68,False,4
+3,22,Group,97898,316,False,76
+3,22,Jim,488512,1431,False,301
+3,22,Karen,146201,382,False,54
+3,22,Kelly,146130,350,False,60
+3,22,Kevin,97528,256,False,137
+3,22,Meredith,114172,356,False,84
+3,22,Michael,2355472,5645,False,2291
+3,22,Oscar,80852,132,False,76
+3,22,Pam,487150,1133,False,560
+3,22,Phyllis,81763,297,False,77
+3,22,Ryan,81390,238,False,68
+3,22,Stanley,194323,379,False,132
+3,22,Toby,64426,36,False,16
+3,23,Andy,502512,1561,False,298
+3,23,Angela,99331,108,False,48
+3,23,Creed,49695,60,False,27
+3,23,David,787454,2483,False,557
+3,23,Dwight,1171183,3477,False,903
+3,23,Everyone,16805,62,False,3
+3,23,Hunter,100610,350,False,14
+3,23,Jan,719684,2079,False,483
+3,23,Jim,1082858,2342,False,555
+3,23,Karen,666488,1494,False,311
+3,23,Kelly,118180,499,False,95
+3,23,Kevin,281836,411,False,124
+3,23,Meredith,98992,56,False,57
+3,23,Michael,2050553,4757,False,1711
+3,23,Oscar,200108,489,False,77
+3,23,Pam,853002,2399,False,602
+3,23,Phyllis,83818,281,False,35
+3,23,Receptionist,16877,68,False,10
+3,23,Ryan,67288,244,False,72
+3,23,Stanley,117254,382,False,47
+4,1,Andy,173270,544,False,138
+4,1,Angela,861286,1979,False,517
+4,1,Bob Vance,17518,88,False,6
+4,1,Creed,155520,398,False,82
+4,1,Darryl,86210,182,False,19
+4,1,Dwight,982428,2301,False,642
+4,1,Elizabeth,52053,156,False,6
+4,1,IT Tech Guy,51134,34,False,57
+4,1,Intern,85966,150,False,56
+4,1,Jan,121434,372,False,51
+4,1,Jim,914727,2284,False,460
+4,1,Kelly,120985,331,False,50
+4,1,Kevin,360972,706,False,208
+4,1,Meredith,431709,1138,False,182
+4,1,Michael,2762709,7170,False,2895
+4,1,Nurse,51689,124,False,12
+4,1,Oscar,241672,645,False,87
+4,1,Pam,1446334,3095,False,732
+4,1,Pediatrician,52583,268,False,47
+4,1,Phyllis,156076,521,False,32
+4,1,Ryan,136691,177,False,117
+4,1,Someone,17465,76,False,3
+4,1,Stanley,172416,413,False,83
+4,1,Toby,190617,596,False,115
+4,1,Waitress,17376,62,False,1
+4,2,Amy,53481,114,False,19
+4,2,Andy,249136,476,False,142
+4,2,Angela,407710,603,False,191
+4,2,Creed,267902,641,False,167
+4,2,Dwight,1324943,3487,False,861
+4,2,Ex-client,306151,994,False,124
+4,2,GPS,71855,217,False,21
+4,2,Jan,301775,510,False,139
+4,2,Jim,855115,1719,False,425
+4,2,Kelly,427073,815,False,191
+4,2,Kevin,285564,649,False,67
+4,2,Larry Myers,107646,312,False,45
+4,2,Michael,2821631,6474,False,2790
+4,2,Oscar,144143,491,False,77
+4,2,Pam,998387,2086,False,362
+4,2,Phyllis,230523,329,False,128
+4,2,Robert Dunder,195611,373,False,122
+4,2,Ryan,1515505,3171,False,971
+4,2,Stanley,88842,157,False,30
+4,2,Toby,317992,316,False,176
+4,3,All,92402,240,False,16
+4,3,Andy,866273,2003,False,634
+4,3,Angela,957560,2112,False,561
+4,3,Angels,18442,44,False,2
+4,3,Bartender,18668,72,False,10
+4,3,Creed,18719,82,False,17
+4,3,Darryl,164988,258,False,54
+4,3,DunMiff/sys,109832,159,False,78
+4,3,Dwight,1625388,4141,False,902
+4,3,DwightKSchrute,54819,66,False,24
+4,3,Everyone,18158,4,False,2
+4,3,Jan,109674,138,False,23
+4,3,Jim,1286928,2492,False,522
+4,3,Kelly,221193,540,False,104
+4,3,Kevin,314214,839,False,209
+4,3,Man,74692,288,False,26
+4,3,Manager,18595,64,False,18
+4,3,Meredith,256355,364,False,106
+4,3,Michael,2880452,7252,False,2259
+4,3,Oscar,222324,680,False,100
+4,3,Pam,572127,1407,False,281
+4,3,Pam and Jim,18301,25,False,2
+4,3,Phyllis,164941,260,False,116
+4,3,Pizza guy,407735,1242,False,132
+4,3,Ryan,129541,362,False,144
+4,3,Stanley,128812,267,False,34
+4,3,Tech Guy,18266,22,False,7
+4,3,Toby,149889,713,False,53
+4,3,Voice #1 on phone,37289,140,False,10
+4,3,Voice #2 on phone,18644,70,False,4
+4,3,Voice of Thomas Dean,18205,12,False,24
+4,3,sAndy,18239,19,False,12
+4,4,Andy,478962,1792,False,260
+4,4,Angela,191157,662,False,67
+4,4,Co-Worker 1,18859,27,False,3
+4,4,Co-Worker 2,56774,121,False,27
+4,4,Co-Worker 3,56759,119,False,11
+4,4,Creed,133523,400,False,89
+4,4,Darryl,190410,512,False,100
+4,4,Dwight,1006993,2597,False,755
+4,4,Jan,762843,2444,False,455
+4,4,Jim,988875,2679,False,456
+4,4,Kelly,247345,647,False,133
+4,4,Kevin,228454,620,False,99
+4,4,Meredith,19058,53,False,8
+4,4,Micael,18886,33,False,1
+4,4,Micahel,18759,8,False,22
+4,4,Michae,18769,8,False,7
+4,4,Michael,3021291,7762,False,2038
+4,4,Mose,250290,1121,False,61
+4,4,Mr. Figaro,76072,188,False,17
+4,4,Nick,245326,389,False,210
+4,4,Oscar,612265,2223,False,250
+4,4,Oscar and Stanley,19075,53,False,8
+4,4,Pam,1062893,2449,False,417
+4,4,Phyllis,57307,186,False,33
+4,4,Ryan,397912,833,False,201
+4,4,Stanely,37738,60,False,8
+4,4,Stanley,132564,264,False,108
+4,4,Toby,38018,90,False,29
+4,4,Vikram,208077,413,False,51
+4,5,Ad guy 1,232501,165,False,127
+4,5,Ad guy 2,116279,86,False,35
+4,5,Andy,407330,374,False,359
+4,5,"Andy, Creed, Kevin, Kelly",97165,124,False,25
+4,5,"Andy, Creed, Kevin, Kelly, Darryl",19413,23,False,17
+4,5,Angela,38815,41,False,13
+4,5,Bartender,77999,152,False,20
+4,5,Both,19485,32,False,5
+4,5,Creed,38816,42,False,6
+4,5,Darryl,194312,245,False,106
+4,5,David Wallace,58165,42,False,21
+4,5,Dwight,213641,233,False,122
+4,5,Everyone,58553,119,False,10
+4,5,Jim,915187,1471,False,496
+4,5,Kevin,58239,61,False,33
+4,5,Meredith,58337,76,False,27
+4,5,Michael,1788150,2246,False,1666
+4,5,Michael's Ad,19497,38,False,146
+4,5,Oscar,19398,17,False,20
+4,5,Pam,428146,651,False,201
+4,5,Phyllis,135892,144,False,86
+4,5,Receptionist,19363,11,False,7
+4,5,Ryan,154977,91,False,78
+4,5,Stanley,19333,5,False,15
+4,5,Toby,39022,84,False,70
+4,6,All,19589,6,False,1
+4,6,Andy,237427,371,False,296
+4,6,Angela,19859,41,False,33
+4,6,Ben,78538,56,False,29
+4,6,Dwight,868704,1152,False,326
+4,6,Dwight and Michael,19650,17,False,6
+4,6,Jim,1540905,2156,False,633
+4,6,Karen,492553,503,False,255
+4,6,Kevin,39501,52,False,6
+4,6,Meredith,19860,42,False,35
+4,6,Michael,1772900,1894,False,1381
+4,6,Michael and Dwight,39327,35,False,7
+4,6,Oscar,236919,305,False,111
+4,6,Pam,513686,751,False,350
+4,6,Phyllis,39516,52,False,10
+4,6,Rolando,39142,2,False,22
+4,6,Security guard,19886,49,False,17
+4,6,Stanley,196805,173,False,90
+4,6,Toby,198239,354,False,98
+4,7,Andy,140357,280,False,62
+4,7,Angela,140076,200,False,104
+4,7,Creed,240560,452,False,110
+4,7,Dwight,721611,1328,False,479
+4,7,Everybody,20105,54,False,28
+4,7,Jim,1381537,2280,False,584
+4,7,Kelly,19982,22,False,7
+4,7,Kevin,40163,97,False,30
+4,7,Meredith,100015,143,False,40
+4,7,Michael,1642367,2781,False,1524
+4,7,Oscar,140199,251,False,78
+4,7,Pam,461295,917,False,157
+4,7,Phyllis,79892,82,False,36
+4,7,Stanley,40132,92,False,29
+4,7,Toby,320066,466,False,183
+4,8,Andy,122653,257,False,75
+4,8,Angela,20437,41,False,7
+4,8,Council,20379,35,False,43
+4,8,Creed,61245,120,False,54
+4,8,Darryl,61002,81,False,11
+4,8,David,61204,111,False,8
+4,8,David Wallace,20400,37,False,24
+4,8,Deposition Reporter,60849,69,False,105
+4,8,Diane,202903,236,False,142
+4,8,Diane Kelly,366815,649,False,264
+4,8,Dwight,101686,152,False,87
+4,8,Jan,608500,626,False,346
+4,8,Jim,549657,858,False,235
+4,8,Kelly,304629,369,False,213
+4,8,Kevin,80956,67,False,39
+4,8,Lester,527787,669,False,399
+4,8,Man,101878,175,False,41
+4,8,Meredith,20315,27,False,3
+4,8,Michael,1806760,2130,False,1191
+4,8,Oscar,81429,124,False,36
+4,8,Pam,507937,659,False,281
+4,8,Phyllis,61297,123,False,17
+4,8,Ryan,201977,63,False,139
+4,8,Stanley,61293,123,False,21
+4,8,Toby,81262,113,False,100
+4,9,All,20575,8,False,1
+4,9,Andy,288982,219,False,124
+4,9,Angela,289036,207,False,101
+4,9,Dwight,372077,304,False,278
+4,9,Hunter's CD,20581,8,False,40
+4,9,Jan,1856928,1336,False,1033
+4,9,Jim,865726,535,False,379
+4,9,Michae,20596,10,False,7
+4,9,Michael,2082755,1356,False,1459
+4,9,Neighbor,20797,35,False,5
+4,9,Officer,20729,20,False,4
+4,9,Officer 1,62183,60,False,31
+4,9,Officer 2,41456,40,False,23
+4,9,Pam,722716,559,False,324
+4,9,Phyllis,20469,1,False,12
+4,9,Stanley,20468,1,False,3
+4,9,Woman,103449,90,False,16
+4,10,Andy,292655,318,False,195
+4,10,Angela,83960,145,False,13
+4,10,Bill Cress,20953,31,False,2
+4,10,Bob Vance,20942,31,False,2
+4,10,Coffee shop worker,20928,28,False,14
+4,10,Creed,62480,28,False,31
+4,10,Dwight,461262,707,False,312
+4,10,Jan [on phone],20937,30,False,7
+4,10,Jim,545319,856,False,233
+4,10,Kelly,147308,315,False,74
+4,10,Kevin,417884,427,False,226
+4,10,Margaret,167448,233,False,42
+4,10,Michael,2093848,2821,False,1765
+4,10,Michael/Dwight,21015,41,False,57
+4,10,Oscar,41795,38,False,24
+4,10,Pam,879065,1079,False,416
+4,10,Paul,41910,62,False,26
+4,10,Paul Faust,20951,31,False,3
+4,10,Phyllis,187645,128,False,75
+4,10,Stanley,20877,18,False,12
+4,10,Toby,21052,47,False,45
+4,10,W.B. Jones,83795,124,False,18
+4,10,Wendy's phone operator,104445,95,False,23
+4,11,All Girls,21284,29,False,1
+4,11,Andy,84952,94,False,69
+4,11,Angela,106103,109,False,24
+4,11,Bartender,42598,62,False,16
+4,11,Cleaning lady,21355,40,False,1
+4,11,Creed,42364,35,False,16
+4,11,Dwight,1020995,1356,False,398
+4,11,Girl in 2nd club,106549,168,False,26
+4,11,Girl in Club,106340,135,False,27
+4,11,Hank,128097,236,False,50
+4,11,Jim,913004,1030,False,497
+4,11,Kelly,106350,148,False,48
+4,11,Kevin,85169,126,False,17
+4,11,Meredith,21296,30,False,1
+4,11,Michael,2210293,2713,False,1203
+4,11,Oscar,170388,260,False,56
+4,11,Pam,361277,445,False,160
+4,11,Phyllis,106420,153,False,32
+4,11,Ryan,1486513,1713,False,638
+4,11,Stanley,127473,158,False,95
+4,11,Tall Girl #1,106596,175,False,25
+4,11,Tall Girl #2,21290,29,False,8
+4,11,Toby,170081,220,False,142
+4,11,Troy,106487,163,False,62
+4,11,Waitress,21217,23,False,5
+4,12,Andy,495164,213,False,205
+4,12,Angela,64458,12,False,14
+4,12,Creed,21592,16,False,40
+4,12,Darryl,280865,221,False,94
+4,12,Dwight,689663,374,False,431
+4,12,Jim,669554,545,False,274
+4,12,Kelly,130027,161,False,80
+4,12,Kevin,172697,126,False,101
+4,12,Meredith,21713,32,False,2
+4,12,Michael,2136443,1539,False,1398
+4,12,Oscar,43115,25,False,11
+4,12,Pam,649180,699,False,279
+4,12,Phyllis,193816,101,False,50
+4,12,Ryan,303592,399,False,312
+4,12,Stanley,497314,468,False,282
+4,12,Toby,280681,229,False,140
+4,13,Air Force recruiter,43972,102,False,20
+4,13,Andy,305763,318,False,205
+4,13,Angela,87440,112,False,16
+4,13,Angela and Dwight,21847,25,False,19
+4,13,Brad,395170,802,False,100
+4,13,Creed,87270,74,False,48
+4,13,Darryl,130599,37,False,53
+4,13,Dwight,218360,228,False,210
+4,13,Graphics guy,219220,420,False,125
+4,13,Jim,459012,555,False,362
+4,13,Justin,306589,491,False,62
+4,13,Kelly,21751,3,False,14
+4,13,Kevin,196793,247,False,101
+4,13,Kid,43639,36,False,7
+4,13,Maguire,21896,35,False,5
+4,13,Meredith,21786,14,False,8
+4,13,Michael,1662962,2334,False,1365
+4,13,Michael and Darryl,21758,3,False,3
+4,13,Oscar,109093,93,False,23
+4,13,Pam,743331,973,False,346
+4,13,Phil,218596,268,False,133
+4,13,Phil Maguire,109043,70,False,31
+4,13,Phyllis,43577,28,False,10
+4,13,Woman on mic,21899,37,False,15
+4,14,Andy,270133,983,False,297
+4,14,Angela,379115,827,False,165
+4,14,Bob Vance,22582,97,False,5
+4,14,Co-workers,45204,204,False,7
+4,14,Creed,178004,311,False,138
+4,14,Darryl,67448,229,False,7
+4,14,Dwight,1090896,2092,False,481
+4,14,Hank,22505,79,False,7
+4,14,Holly,1626819,3264,False,633
+4,14,Holy,22485,77,False,13
+4,14,Jan,538294,1539,False,221
+4,14,Jim,1713720,3148,False,893
+4,14,Kelly,88841,132,False,78
+4,14,Kevin,513093,1110,False,156
+4,14,Meredith,202291,684,False,69
+4,14,Michael,3723150,7579,False,2301
+4,14,Oscar,90077,339,False,80
+4,14,Pam,1045822,1874,False,384
+4,14,Phyllis,513453,1192,False,298
+4,14,Ryan,110815,135,False,40
+4,14,Someone,22576,96,False,2
+4,14,Stanley,112431,415,False,68
+4,14,Toby,1138380,2654,False,622
+4,14,Troy,135414,566,False,35
+4,14,Vance Refrigeration guy,22364,55,False,6
+4,14,Woman over speakerphone,66273,54,False,19
+5,1,Andy,710102,1952,False,561
+5,1,Angela,594437,1416,False,253
+5,1,Creed,114169,254,False,22
+5,1,Darryl,297694,797,False,121
+5,1,Dwight,1397905,4031,False,669
+5,1,Friend,114735,395,False,52
+5,1,Holly,1281519,3292,False,544
+5,1,JIM9334,46061,178,False,28
+5,1,JIM9334 [screen name],23025,89,False,4
+5,1,Jan,299059,1072,False,125
+5,1,Jim,1556047,4016,False,785
+5,1,Kelly,390450,1311,False,198
+5,1,Kevin,319038,577,False,58
+5,1,Meredith,161105,585,False,46
+5,1,Michael,2978330,8448,False,1930
+5,1,Micheal,46082,182,False,2
+5,1,Oscar,548876,1332,False,183
+5,1,Pam,822555,1873,False,263
+5,1,Phyllis,366383,1061,False,177
+5,1,Professor,114139,247,False,107
+5,1,Receptionitis15,46066,178,False,12
+5,1,Receptionitis15 [screen name],23027,89,False,3
+5,1,Ronnie,68300,106,False,15
+5,1,Ryan,458317,1424,False,253
+5,1,Stanley,182138,268,False,147
+5,1,Toby,69403,318,False,95
+5,2,Andy,279633,115,False,91
+5,2,Angela,46469,7,False,25
+5,2,Creed,46612,25,False,25
+5,2,Dight,23237,6,False,1
+5,2,Dwight,325989,114,False,197
+5,2,Holly,1235351,542,False,825
+5,2,Jim,675153,229,False,337
+5,2,Kelly,69729,18,False,45
+5,2,Kendall,140261,102,False,134
+5,2,Kevin,303961,284,False,183
+5,2,Meredith,537481,434,False,285
+5,2,Michael,1491888,698,False,958
+5,2,Michael & Holly,23213,4,False,29
+5,2,Micheal,69824,19,False,28
+5,2,Oscar,163021,70,False,110
+5,2,Pam,208745,9,False,52
+5,2,Phyllis,140292,131,False,134
+5,2,Ryan,280729,282,False,233
+5,2,Stanley,116887,104,False,27
+5,3,Andy,306725,269,False,91
+5,3,Angela,377804,378,False,165
+5,3,Creed,47258,58,False,9
+5,3,Darryl,212850,279,False,63
+5,3,Dwight,917973,521,False,497
+5,3,Holly,331229,429,False,80
+5,3,Jan,1206615,1590,False,679
+5,3,Jim,660995,650,False,271
+5,3,Kelly,47228,49,False,19
+5,3,Kevin,284226,415,False,81
+5,3,Meredith,23508,7,False,1
+5,3,Michael,1956313,1476,False,1106
+5,3,Oscar,94495,101,False,39
+5,3,Pam,590340,609,False,320
+5,3,Phyllis,164580,61,False,56
+5,3,Stanley,47189,43,False,50
+5,3,Toby,71205,126,False,17
+5,4,All,23983,39,False,4
+5,4,Andy,167190,151,False,83
+5,4,Angela,191243,204,False,45
+5,4,Bob,239965,385,False,20
+5,4,Creed,47799,52,False,25
+5,4,Darryl,191347,243,False,67
+5,4,David Wallace,119910,189,False,41
+5,4,Dwight,789059,852,False,441
+5,4,Guy in audience,47902,68,False,2
+5,4,Hank [the security guard],23941,33,False,29
+5,4,Holly,857802,477,False,258
+5,4,Jim,863360,1379,False,243
+5,4,Kevin,119497,126,False,35
+5,4,Man on phone,23862,18,False,8
+5,4,Michael,2248752,2658,False,1384
+5,4,Michael [on phone],47529,8,False,9
+5,4,Oscar,119400,110,False,50
+5,4,Pam,263007,284,False,148
+5,4,Pam [on phone],95440,72,False,21
+5,4,Phyllis,573173,536,False,202
+5,4,Receptionist,23759,1,False,3
+5,4,Roy,335349,482,False,44
+5,4,Stanley,23985,39,False,8
+5,5,Andy,1067689,1366,False,578
+5,5,Angela,195872,413,False,61
+5,5,Creed,48286,29,False,17
+5,5,Darryl,1339190,2144,False,468
+5,5,Dwight,921541,1119,False,427
+5,5,Holly,1775459,2610,False,507
+5,5,Holly & Darryl,24409,44,False,4
+5,5,Holly & Michael,24423,45,False,14
+5,5,Jim,605342,633,False,231
+5,5,Kelly,169134,91,False,63
+5,5,Kevin,121589,174,False,44
+5,5,Meredith,24202,27,False,21
+5,5,Michael,2455793,3549,False,963
+5,5,Michael & Holly,73333,138,False,36
+5,5,Michael and Holly,24129,15,False,12
+5,5,"Michael, Holly, and Darryl",24130,15,False,17
+5,5,Oscar,145926,217,False,81
+5,5,Pam,605220,628,False,303
+5,5,Pete,363302,420,False,141
+5,5,Phyllis,120725,59,False,52
+5,5,Ryan,96348,16,False,26
+5,5,Stanley,24248,31,False,1
+5,5,Tom,314555,324,False,105
+5,6,Alex,248166,322,False,236
+5,6,Andy,716356,622,False,362
+5,6,Angela,148345,137,False,88
+5,6,Customer,123665,130,False,30
+5,6,Darryl,24509,2,False,26
+5,6,Dwight,2448355,2539,False,1111
+5,6,Dwight ,24710,21,False,7
+5,6,Group,24523,3,False,7
+5,6,Jim,2741960,2461,False,901
+5,6,Jim and Pam,24547,7,False,3
+5,6,Kelly,568764,569,False,246
+5,6,Kevin,49037,6,False,11
+5,6,Kevin & Andy,24874,38,False,1
+5,6,Meredith,24872,38,False,11
+5,6,Michael,1800783,1380,False,955
+5,6,Mother,98120,12,False,16
+5,6,Pam,840962,845,False,317
+5,6,Phyllis,99603,182,False,39
+5,6,Ryan,148662,174,False,100
+5,6,Stanley,99605,182,False,32
+5,6,Stanley & Phyllis,24903,47,False,3
+5,7,Andy,1731346,1448,False,593
+5,7,Angela,250984,212,False,27
+5,7,Beth,100010,44,False,27
+5,7,Client,50386,58,False,19
+5,7,Concierge,75092,45,False,49
+5,7,Concierge Marie,50239,48,False,5
+5,7,Creed,24936,4,False,14
+5,7,Dacvid Walalce,25222,32,False,5
+5,7,Dacvid Wallace,25226,32,False,2
+5,7,David Wallace,351396,303,False,145
+5,7,David Wallcve,25224,32,False,7
+5,7,Dwight,401511,345,False,145
+5,7,Guy,25092,22,False,5
+5,7,Guy at table,75264,66,False,10
+5,7,Jim,551178,365,False,163
+5,7,Kelly,377250,383,False,147
+5,7,Kevin,50164,38,False,12
+5,7,Marie,125368,95,False,24
+5,7,Meredith,125179,75,False,26
+5,7,Michael,1928133,1212,False,1036
+5,7,Oscar,954343,875,False,249
+5,7,Pam,351380,310,False,184
+5,7,Phyllis,50088,32,False,7
+5,7,Ryan,327055,342,False,157
+5,7,Stanley,75244,58,False,12
+5,7,Stewardess,24990,11,False,7
+5,8,Andy,151869,50,False,67
+5,8,Angela,50571,11,False,20
+5,8,Creed,50770,31,False,29
+5,8,David,278169,47,False,73
+5,8,Dwight,965154,592,False,566
+5,8,Jim,787016,444,False,522
+5,8,Kelly,254323,176,False,53
+5,8,Kevin,50555,8,False,21
+5,8,Leo,76284,51,False,15
+5,8,Meredith,50656,20,False,11
+5,8,Michael,2283705,1163,False,1030
+5,8,Oscar,75963,30,False,57
+5,8,Pam,661389,500,False,217
+5,8,Phyllis,75942,27,False,14
+5,8,Police Officer 1,254760,226,False,42
+5,8,Police Officer 2,152869,138,False,41
+5,8,Ryan,457811,324,False,252
+5,8,Toby,737492,540,False,195
+5,8,Vance Refrigeration Guy,101719,68,False,41
+5,8,Vance Refrigeration guy,50842,34,False,3
+5,9,Andy,462487,235,False,209
+5,9,Angela,591681,354,False,156
+5,9,Creed,25593,4,False,5
+5,9,David,154842,126,False,48
+5,9,Dwight,745289,389,False,422
+5,9,Hank,335032,247,False,122
+5,9,Jim,796225,397,False,216
+5,9,Kelly,25733,17,False,9
+5,9,Kevin,77396,63,False,20
+5,9,Meredith,25592,4,False,10
+5,9,Michael,2571366,1453,False,1071
+5,9,Oscar,795815,339,False,392
+5,9,Pam,1490242,784,False,419
+5,9,Phyllis,51562,40,False,3
+5,9,Stanley,103015,69,False,15
+5,9,Toby,51168,4,False,27
+5,10,Andy,207952,251,False,244
+5,10,Angela,311855,339,False,138
+5,10,Creed,26006,35,False,8
+5,10,Darryl,156342,264,False,31
+5,10,Dwight,700840,637,False,378
+5,10,Guy,77763,51,False,14
+5,10,Guy buying doll,25917,17,False,3
+5,10,Jim,674998,629,False,180
+5,10,Kelly,25971,28,False,8
+5,10,Kevin,77898,82,False,45
+5,10,Meredith,936605,1299,False,289
+5,10,Michael,1689090,1974,False,978
+5,10,Oscar,129707,120,False,33
+5,10,Pam,156313,238,False,40
+5,10,Phyllis,493292,440,False,290
+5,10,Rehab Nurse,26083,45,False,4
+5,10,Sasha,26045,42,False,8
+5,10,Stanley,103777,77,False,22
+5,10,Toby,390546,608,False,202
+5,11,Andy,1708475,1342,False,524
+5,11,Angela,577397,375,False,222
+5,11,Creed,52653,53,False,4
+5,11,David,210480,190,False,153
+5,11,Dwight,1734494,1358,False,724
+5,11,Everyone,26157,7,False,2
+5,11,Everyone watching,26371,31,False,1
+5,11,Jim,891663,499,False,260
+5,11,Kelly,52715,59,False,22
+5,11,Kevin,209495,84,False,74
+5,11,Meredith,157844,137,False,48
+5,11,Michael,1362609,648,False,687
+5,11,Oscar,262178,134,False,92
+5,11,Pam,235764,103,False,100
+5,11,Phyllis,78842,63,False,14
+5,11,Stanley,52486,33,False,6
+5,12,Andy,132518,53,False,70
+5,12,Angela,79527,31,False,51
+5,12,Creed,26429,4,False,3
+5,12,David,238452,96,False,143
+5,12,Dwight,1937634,1018,False,841
+5,12,Dwight and Michael,26564,15,False,12
+5,12,Entire Prince family,26492,9,False,2
+5,12,Entire office,26508,10,False,1
+5,12,Jim,343998,86,False,299
+5,12,Jim ,26535,12,False,6
+5,12,Kelly,53105,28,False,44
+5,12,Kevin,371026,143,False,141
+5,12,Linda,53084,26,False,13
+5,12,Meredith,52866,10,False,9
+5,12,Michael,2388611,1235,False,953
+5,12,Oscar,79771,56,False,67
+5,12,Pam,132842,86,False,52
+5,12,Phyllis,105695,14,False,16
+5,12,Prince,26536,13,False,9
+5,12,Prince Granddaughter,106238,59,False,10
+5,12,Prince Grandfather,504173,239,False,166
+5,12,Prince Grandmother,53132,30,False,12
+5,12,Prince Son,26596,20,False,14
+5,12,Stanley,132397,42,False,86
+5,13,Andy,617174,447,False,355
+5,13,Angela,428984,251,False,139
+5,13,CPR Trainer,80440,44,False,17
+5,13,CPR trainer,26800,12,False,10
+5,13,Creed,107796,152,False,28
+5,13,Darryl,162176,336,False,48
+5,13,David,26761,3,False,12
+5,13,David Wallace,241046,55,False,91
+5,13,Dwight,1957364,1245,False,977
+5,13,Everyone,80226,20,False,21
+5,13,Group,26988,48,False,3
+5,13,Jessica Alba,53770,40,False,12
+5,13,Jim,941908,1131,False,268
+5,13,Kelly,80823,107,False,44
+5,13,Kevin,215130,244,False,71
+5,13,Lawyer,53498,6,False,8
+5,13,Lily,161562,190,False,73
+5,13,Meredith,80922,135,False,43
+5,13,Michael,3171831,3141,False,2061
+5,13,Michel,26762,3,False,23
+5,13,Oscar,296267,443,False,81
+5,13,Pam,861967,1216,False,470
+5,13,Phyllis,295490,280,False,67
+5,13,Phyllis and Creed,26721,2,False,7
+5,13,Rose,214728,128,False,96
+5,13,Sam,161571,192,False,117
+5,13,Stanley,751559,480,False,210
+5,13,Warehouse Michael,27032,56,False,15
+5,14,Andy,735461,586,False,500
+5,14,Creed,136402,134,False,59
+5,14,Dwight,679769,387,False,265
+5,14,Jim,923775,436,False,321
+5,14,Julia,354361,310,False,84
+5,14,Karen,544316,389,False,161
+5,14,Kelly,217121,77,False,103
+5,14,Mark,54410,38,False,8
+5,14,Michael,1494513,751,False,1181
+5,14,Oscar,27257,24,False,9
+5,14,Pam,951615,542,False,265
+5,14,Phyllis,81403,25,False,14
+5,14,Rolando,54326,28,False,21
+5,14,Stanley,190486,137,False,71
+5,15,A.J.,219553,152,False,35
+5,15,All,27520,29,False,2
+5,15,Angela,520465,262,False,359
+5,15,Creed,54877,36,False,15
+5,15,Dwight,906012,680,False,345
+5,15,Jim,905937,668,False,357
+5,15,Karen,54636,8,False,10
+5,15,Kelly,494097,355,False,204
+5,15,Kevin,493883,337,False,125
+5,15,Man,27449,19,False,8
+5,15,Meredith,246798,150,False,34
+5,15,Michael,1372316,1011,False,663
+5,15,Oscar,356384,214,False,90
+5,15,Pam,1043215,802,False,397
+5,15,Phyllis,27378,12,False,4
+5,15,Receptionist,136945,75,False,52
+5,15,Stanley,54979,47,False,19
+5,15,Woman,27443,19,False,8
+5,16,Angela,110920,80,False,67
+5,16,Blonde,166890,177,False,42
+5,16,Blood Drive Worker,221474,129,False,53
+5,16,Blood Girl,470185,222,False,87
+5,16,Bob,249993,239,False,65
+5,16,Dwight,860337,691,False,331
+5,16,Eric,27794,27,False,2
+5,16,Girl,27827,32,False,16
+5,16,Hank,27681,15,False,1
+5,16,Jim,969650,613,False,221
+5,16,"Jim, Pam, Michael and Dwight",55186,6,False,2
+5,16,Kelly,249766,209,False,86
+5,16,Kevin,416457,347,False,188
+5,16,Lynn,166860,171,False,20
+5,16,Meredith,83180,61,False,34
+5,16,Michael,2382356,1475,False,1282
+5,16,Oscar,388562,328,False,128
+5,16,Pam,886133,503,False,278
+5,16,Phone Salesman,193036,15,False,56
+5,16,Phyllis,305233,259,False,95
+5,16,Stanley,55730,78,False,34
+5,17,Andy,335696,114,False,158
+5,17,Creed,56093,41,False,6
+5,17,Darryl,83919,30,False,27
+5,17,David,701925,573,False,323
+5,17,Dwight,1992321,1450,False,577
+5,17,Jim,1092625,583,False,413
+5,17,Kevin,280350,162,False,119
+5,17,Lynn,84480,90,False,3
+5,17,Man on phone,28118,28,False,25
+5,17,Michael,3164703,1632,False,1554
+5,17,Oscar,195891,89,False,27
+5,17,Pam,671036,224,False,290
+5,17,Stanley,27996,14,False,18
+5,18,Andy,170401,157,False,42
+5,18,Angela,227101,191,False,84
+5,18,Charles,1869915,1128,False,556
+5,18,Creed,56948,72,False,18
+5,18,David,511102,441,False,144
+5,18,Dwight,593300,172,False,231
+5,18,Employees,28379,22,False,26
+5,18,Jim,849002,414,False,434
+5,18,Kelly,198755,173,False,58
+5,18,Kevin,141573,82,False,32
+5,18,Meredith,28470,36,False,5
+5,18,Michael,2945115,1630,False,1582
+5,18,Oscar,85214,83,False,8
+5,18,Pam,396025,174,False,146
+5,18,Phyllis,85299,88,False,19
+5,18,Stanley,56543,22,False,13
+5,18,Stephanie,169977,90,False,15
+5,19,Andy,400029,285,False,124
+5,19,Angela,171579,144,False,92
+5,19,Angela and Kelly,28617,26,False,17
+5,19,Charles,716048,797,False,258
+5,19,Creed,28548,15,False,10
+5,19,Dwight,343378,320,False,113
+5,19,Everyone,28481,1,False,1
+5,19,Hank,86021,114,False,9
+5,19,Isaac,199693,74,False,38
+5,19,Jim,743810,707,False,215
+5,19,Kelly,171551,135,False,76
+5,19,Kevin,371731,307,False,108
+5,19,Meredith,57129,33,False,11
+5,19,Michael,2517349,2285,False,1109
+5,19,Oscar,343426,333,False,171
+5,19,Pam,1087565,1044,False,348
+5,19,Phone,28556,20,False,37
+5,19,Phyllis,86043,122,False,16
+5,19,Stanley,200358,193,False,41
+5,19,Toby,28691,44,False,34
+5,20,Andy,461477,210,False,125
+5,20,Angela,86441,28,False,12
+5,20,Chares,28990,31,False,3
+5,20,Charles,1156448,856,False,340
+5,20,Creed,28815,10,False,5
+5,20,Dwight,490730,263,False,117
+5,20,Jim,1011031,637,False,261
+5,20,Kelly,28779,7,False,9
+5,20,Kevin,287761,56,False,96
+5,20,Michael,2255218,1693,False,1309
+5,20,Michal,28972,28,False,14
+5,20,Micheal,28820,11,False,4
+5,20,Nana,289926,310,False,57
+5,20,Old Woman,29002,32,False,11
+5,20,Oscar,29015,35,False,2
+5,20,Pam,1877674,1202,False,575
+5,20,Phyllis,57830,45,False,16
+5,20,Ryan,318454,281,False,70
+5,20,Stanley,115327,49,False,25
+5,20,Supervisor,28939,24,False,5
+5,20,Vikram,289524,259,False,110
+5,21,Andy,525806,509,False,140
+5,21,Charles,729031,514,False,126
+5,21,Creed,58516,70,False,30
+5,21,Dwight,817045,699,False,339
+5,21,Dwight and Andy,29272,36,False,21
+5,21,Dwight and Erin,29270,36,False,9
+5,21,Erin,466232,328,False,72
+5,21,Jim,816597,602,False,308
+5,21,Kelly,145311,24,False,43
+5,21,Kevin,58258,29,False,13
+5,21,Man,29255,34,False,5
+5,21,Meredith,29260,35,False,6
+5,21,Michael,1342902,1147,False,820
+5,21,Oscar,145915,115,False,31
+5,21,Pam,1313540,1108,False,458
+5,21,Phyllis,29228,29,False,3
+5,21,Ryan,729283,572,False,300
+5,21,Stanley,87689,87,False,22
+5,21,Toby,87542,72,False,77
+5,22,Andy,913477,821,False,381
+5,22,Automated phone voice,29456,23,False,17
+5,22,Charles,411467,223,False,151
+5,22,Dwight,2444441,1995,False,918
+5,22,Jim,795327,672,False,318
+5,22,Kelly,29546,36,False,2
+5,22,Kevin,29550,37,False,6
+5,22,Michael,2798766,2387,False,1241
+5,22,"Michael, Pam & Ryan",29361,13,False,23
+5,22,Mr. Schofield,206944,269,False,42
+5,22,Pam,529596,361,False,172
+5,22,Phyllis,147211,112,False,31
+5,22,Ryan,265326,260,False,48
+5,22,Secretary,118112,136,False,17
+5,22,Stanley,29457,24,False,9
+5,23,Andy,88884,24,False,46
+5,23,Angela,59441,35,False,31
+5,23,Charles,1159243,691,False,321
+5,23,David,1071912,796,False,403
+5,23,David Wallace,29647,11,False,12
+5,23,Dwight,743833,513,False,306
+5,23,Erin,29799,24,False,1
+5,23,Financial Guy,326580,154,False,95
+5,23,Jim,862845,583,False,291
+5,23,Jim ,29721,18,False,5
+5,23,Kelly,59469,39,False,2
+5,23,Kevin,29663,13,False,1
+5,23,Michael,2262216,1569,False,912
+5,23,Pam,981813,650,False,311
+5,23,Phyllis,29667,13,False,18
+5,23,Ryan,714093,473,False,181
+5,23,Stanley,29624,8,False,12
+5,23,Ty,59406,28,False,12
+5,24,Andy,360239,230,False,97
+5,24,Angela,149711,43,False,64
+5,24,Creed,270617,221,False,78
+5,24,Darryl,30113,28,False,10
+5,24,Dwight,1470865,932,False,525
+5,24,Erin,301552,303,False,33
+5,24,Jim,871896,686,False,270
+5,24,Kelly,60140,48,False,22
+5,24,Kevin,29894,1,False,73
+5,24,Meredith,240237,159,False,90
+5,24,Michael,2857014,2224,False,1306
+5,24,Oscar,149793,65,False,32
+5,24,Pam,902717,749,False,176
+5,24,Phyllis,389994,207,False,142
+5,24,Ryan,750885,526,False,177
+5,24,Stanley,360403,242,False,63
+5,24,Toby,390837,304,False,172
+5,25,Andy,486758,574,False,119
+5,25,Angela,516099,407,False,158
+5,25,Bob Vance,60900,80,False,9
+5,25,Creed,91270,100,False,30
+5,25,Dwight,971889,855,False,543
+5,25,Erin,696873,375,False,164
+5,25,Jessica,91011,60,False,28
+5,25,Jim,516127,469,False,156
+5,25,Kelly,335141,470,False,78
+5,25,Kevin,456165,498,False,125
+5,25,Lynn,213451,323,False,31
+5,25,Meredith,30297,17,False,7
+5,25,Michael,2578204,1755,False,1221
+5,25,Oscar,182265,162,False,43
+5,25,Pam,575940,389,False,123
+5,25,Phylis,30414,32,False,4
+5,25,Phyllis,820053,697,False,159
+5,25,Ryan,60459,15,False,34
+5,25,Stanley,60883,74,False,20
+5,25,VRG 1,121572,96,False,15
+5,25,VRG 2,91179,72,False,11
+5,25,Vance Refrigeration Guy 1,30388,24,False,4
+5,25,Vance Refrigeration Guy 2,30389,24,False,1
+5,26,AJ,244991,172,False,61
+5,26,Andy,367401,258,False,104
+5,26,Angela,91990,84,False,21
+5,26,Both,30670,29,False,3
+5,26,Charles,368293,368,False,125
+5,26,David,399260,433,False,211
+5,26,Dwight,1256045,959,False,515
+5,26,Erin,91836,55,False,41
+5,26,Holly,1165105,1020,False,357
+5,26,Jim,734653,474,False,368
+5,26,Kendall,61322,54,False,11
+5,26,Kevin,153120,117,False,30
+5,26,Man,30599,19,False,5
+5,26,Man from Buffalo,92086,93,False,48
+5,26,Meredith,61345,58,False,11
+5,26,Michael,1685373,1344,False,658
+5,26,Nurse,92286,114,False,46
+5,26,Oscar,61376,61,False,12
+5,26,Pam,765933,586,False,195
+5,26,Phyllis,122490,93,False,21
+5,26,Rolph,275829,228,False,84
+5,26,Stanley,61305,53,False,20
+5,26,Toby,61320,54,False,13
+5,26,Woman,30611,21,False,2
+5,26,Woman from Buffalo,61392,62,False,5
+6,1,Andy,1175947,698,False,363
+6,1,Andy & Michael,30796,1,False,10
+6,1,Angela,155162,127,False,36
+6,1,Creed,186223,152,False,56
+6,1,Dwight,617188,161,False,353
+6,1,Dwight & Andy,61575,2,False,19
+6,1,"Dwight, Jim & Pam",30858,9,False,4
+6,1,Eric,247809,155,False,49
+6,1,Erin,216936,158,False,41
+6,1,Everyone,93137,79,False,9
+6,1,Female Intern,61618,4,False,19
+6,1,Female intern,30812,2,False,2
+6,1,Jim,1301867,920,False,352
+6,1,Jim & Pam,31083,29,False,5
+6,1,Kelly,278571,161,False,45
+6,1,Kevin,433324,272,False,109
+6,1,Maurie,309055,130,False,90
+6,1,Megan,93334,93,False,19
+6,1,Meredith,123659,64,False,29
+6,1,Michael,2938916,1557,False,1390
+6,1,Michael & Dwight,61605,2,False,11
+6,1,Oscar,309607,203,False,123
+6,1,Pam,836610,540,False,272
+6,1,Phyllis,216460,102,False,55
+6,1,Ryan,31063,27,False,3
+6,1,Stanley,371003,190,False,139
+6,1,Toby,31016,25,False,20
+6,2,Andy,218461,103,False,236
+6,2,Angela,94143,102,False,8
+6,2,Creed,124756,32,False,28
+6,2,Darryl,468785,272,False,151
+6,2,David,1062885,669,False,487
+6,2,David Wallace,31130,2,False,18
+6,2,Dwight,1000121,594,False,328
+6,2,Erin,93903,77,False,17
+6,2,Gwenneth,62603,52,False,2
+6,2,Jim,594315,423,False,196
+6,2,Kelly,93592,32,False,60
+6,2,Kevin,31213,16,False,5
+6,2,Meredith,188238,204,False,41
+6,2,Michael,2217836,1152,False,1159
+6,2,Michael ,31312,27,False,21
+6,2,Oscar,217861,7,False,44
+6,2,Pam,749968,419,False,254
+6,2,Phyllis,62568,45,False,9
+6,2,Ryan,156255,95,False,25
+6,2,Stanley,62573,48,False,7
+6,2,Toby,812348,455,False,267
+6,3,Andy,94894,71,False,54
+6,3,Angela,158014,107,False,52
+6,3,Creed,94719,57,False,8
+6,3,David Wallace,188994,84,False,94
+6,3,Dwight,912815,293,False,427
+6,3,Erin,94539,42,False,42
+6,3,Jim,2868483,1383,False,1001
+6,3,Kelly,126219,73,False,79
+6,3,Kevin,442291,299,False,93
+6,3,Meredith,284339,184,False,64
+6,3,Michael,2710970,1319,False,1094
+6,3,Oscar,378986,239,False,136
+6,3,Pam,536673,327,False,164
+6,3,Phyllis,410499,252,False,105
+6,3,Ryan,158179,117,False,82
+6,3,Stanley,94491,38,False,23
+6,4,Andy,1055255,1318,False,493
+6,4,Angela,383271,427,False,90
+6,4,Dwight,2682164,2848,False,852
+6,4,Erin,319932,429,False,114
+6,4,Everyone,31942,31,False,5
+6,4,Front Desk Clerk,317941,176,False,66
+6,4,Hotel Employee,128307,216,False,39
+6,4,Hotel Manager,128320,216,False,43
+6,4,Isabel,352992,604,False,86
+6,4,Jim,1788494,1951,False,712
+6,4,Kelly,95609,79,False,26
+6,4,Kevin,959770,1259,False,301
+6,4,Kids,31870,24,False,1
+6,4,Little Girl,31868,24,False,14
+6,4,Mema,415239,424,False,162
+6,4,Meredith,192186,278,False,84
+6,4,Michael,4119123,4315,False,1747
+6,4,Michael and Dwight,32051,50,False,6
+6,4,Micheal,31746,10,False,1
+6,4,Michel,32202,71,False,2
+6,4,Mr. Beesly,63730,46,False,22
+6,4,Mr. Halpert,159242,105,False,13
+6,4,Oscar,288204,408,False,71
+6,4,Pam,2238266,2813,False,663
+6,4,Pam's dad,32219,74,False,3
+6,4,Pam's mom,353926,743,False,68
+6,4,Penny,352962,606,False,84
+6,4,Pete,191454,180,False,43
+6,4,Pete Halpert,32204,71,False,15
+6,4,Phyllis,95990,127,False,38
+6,4,Ryan,96000,126,False,31
+6,4,Stanley,223871,281,False,56
+6,4,Toby,128489,239,False,35
+6,4,Tom,192054,266,False,49
+6,4,Tom Halpert,32201,71,False,6
+6,4,Tom and Pete,32206,71,False,2
+6,5,Andy,1847502,969,False,577
+6,5,Andy and Dwight,32316,11,False,4
+6,5,Credit card rep,32400,17,False,22
+6,5,Creed,32250,1,False,7
+6,5,Dwight,1621926,959,False,493
+6,5,Dwight and Andy,32564,29,False,3
+6,5,Erin,227112,129,False,62
+6,5,Grotti,972297,506,False,387
+6,5,Jim,454531,300,False,83
+6,5,Kevin,551640,343,False,169
+6,5,Kid,32468,21,False,5
+6,5,Meredith,96762,3,False,23
+6,5,Michael,3953960,2009,False,1159
+6,5,Oscar,582870,270,False,188
+6,5,Pam,162427,117,False,71
+6,5,Phyllis,32320,11,False,5
+6,5,Rep,194442,102,False,64
+6,5,Ryan,129144,24,False,29
+6,5,Toby,96792,12,False,25
+6,5,Waitress,226949,124,False,29
+6,5,Woman,129823,81,False,34
+6,6,Andy,294729,171,False,104
+6,6,Angela,163890,101,False,41
+6,6,Creed,32788,20,False,4
+6,6,Dwight,982680,513,False,502
+6,6,Erin,392211,144,False,85
+6,6,Jim,1963985,940,False,581
+6,6,Kelly,327765,178,False,98
+6,6,Kevin,196600,111,False,37
+6,6,Meredith,130608,35,False,22
+6,6,Michael,2782725,1347,False,1009
+6,6,Oscar,196789,123,False,48
+6,6,Pam,1965188,1013,False,545
+6,6,Phyllis,65579,40,False,12
+6,6,Ryan,262647,182,False,53
+6,6,Stanley,32860,25,False,3
+6,6,Toby,492130,315,False,169
+6,6,Various,32761,20,False,6
+6,7,Andy,1224164,944,False,475
+6,7,Angela,330784,239,False,43
+6,7,Creed,99081,54,False,26
+6,7,Customer,132101,80,False,36
+6,7,Darryl,230440,30,False,126
+6,7,Dwight,463203,343,False,151
+6,7,Erin,562711,454,False,187
+6,7,Jim,1619437,971,False,438
+6,7,Keena Gifford,198586,164,False,48
+6,7,Kelly,65987,28,False,10
+6,7,Kevin,331184,286,False,72
+6,7,Kids,65833,5,False,23
+6,7,Meredith,264697,198,False,75
+6,7,Michael,2808359,1669,False,1218
+6,7,Oscar,364406,322,False,67
+6,7,Pam,1291191,1082,False,260
+6,7,Phyllis,297882,240,False,79
+6,7,Ryan,32917,4,False,9
+6,7,Secretary,65998,32,False,19
+6,7,Stanley,99093,61,False,15
+6,8,Andy,933844,532,False,293
+6,8,Angela,66824,50,False,16
+6,8,Creed,66579,19,False,12
+6,8,Dwight,1668058,936,False,551
+6,8,Erin,99792,21,False,29
+6,8,Helene,1234422,740,False,422
+6,8,Hostess,33330,17,False,8
+6,8,Jim,869274,724,False,156
+6,8,Kelly,167327,162,False,43
+6,8,Kevin,200735,179,False,25
+6,8,Meredith,33544,40,False,20
+6,8,Michael,3811385,3209,False,1323
+6,8,Michel,33412,25,False,4
+6,8,Oscar,100476,103,False,18
+6,8,Pam,2339800,1919,False,505
+6,8,Phyllis,66801,43,False,8
+6,8,Ryan,267514,234,False,69
+6,8,Stanley,33227,1,False,5
+6,8,Toby,234759,273,False,77
+6,9,Andy,809129,597,False,270
+6,9,Angela,202293,156,False,61
+6,9,Creed,67436,52,False,34
+6,9,David,135236,180,False,95
+6,9,David Wallace's Secretary,67282,14,False,15
+6,9,Dwight,1010740,615,False,486
+6,9,Erin,506078,462,False,119
+6,9,Jim,1585285,1334,False,719
+6,9,Kelly,33648,9,False,35
+6,9,Kevin,370659,232,False,110
+6,9,Meredith,134890,108,False,40
+6,9,Michael,2258480,1574,False,887
+6,9,Oscar,269610,179,False,177
+6,9,Pam,405036,395,False,151
+6,9,Phyllis,168638,139,False,52
+6,9,Ryan,33696,21,False,19
+6,9,Stanley,202301,149,False,33
+6,9,Voice on CD player,67415,50,False,76
+6,10,Alan,408204,439,False,159
+6,10,Andy,474983,322,False,209
+6,10,Creed,34017,38,False,8
+6,10,David,476160,486,False,110
+6,10,Dwight,881944,540,False,356
+6,10,Erin,101662,53,False,22
+6,10,Female Shareholder,34012,37,False,1
+6,10,Fourth Shareholder,34029,40,False,7
+6,10,Jim,1257115,1110,False,533
+6,10,Jim & Pam,33902,19,False,2
+6,10,Kevin,135765,98,False,38
+6,10,Laurie,169689,121,False,31
+6,10,Limo Driver,67798,38,False,7
+6,10,Man in line,33978,31,False,1
+6,10,Meredith,33868,13,False,8
+6,10,Michael,2412678,2172,False,1277
+6,10,O'Keefe,170357,219,False,33
+6,10,Oscar,611994,587,False,208
+6,10,Pam,407264,299,False,96
+6,10,Phyllis,237712,195,False,40
+6,10,Registrar,33958,26,False,22
+6,10,Ryan,612080,630,False,166
+6,10,Second Shareholder,34014,37,False,10
+6,10,Security,67936,58,False,9
+6,10,Shareholder,34010,37,False,3
+6,10,Stanley,135696,88,False,20
+6,10,Third Shareholder,34027,40,False,12
+6,10,Woman in line,101939,93,False,19
+6,11,Andy,751357,132,False,221
+6,11,Angela,102812,70,False,34
+6,11,Creed,34281,26,False,10
+6,11,David,274658,274,False,89
+6,11,David Wallace,34322,33,False,7
+6,11,Deliveryman,34293,28,False,12
+6,11,Dwight,1233886,865,False,370
+6,11,Erin,718989,389,False,210
+6,11,Everyone,34251,21,False,2
+6,11,Jim,1301043,707,False,351
+6,11,Kelly,34298,28,False,6
+6,11,Kevin,205506,117,False,38
+6,11,Lefevre,377248,315,False,156
+6,11,Michael,2326890,1062,False,1058
+6,11,Michael and Erin,34362,36,False,32
+6,11,Mikela,308013,136,False,61
+6,11,Oscar,68496,38,False,9
+6,11,Pam,478961,207,False,141
+6,11,Phyllis,137006,81,False,29
+6,11,Ryan,137472,148,False,43
+6,11,Stanley,68349,17,False,19
+6,11,Stephanie,68600,58,False,15
+6,11,Students,136968,70,False,82
+6,11,Teacher,137006,79,False,129
+6,11,Zion,34268,22,False,6
+6,12,Andy,552337,341,False,141
+6,12,Angela,207541,177,False,25
+6,12,Bob,34698,44,False,3
+6,12,Bob Vance,34690,44,False,15
+6,12,Creed,68842,16,False,17
+6,12,Daryl,103467,54,False,22
+6,12,David,657694,595,False,146
+6,12,Dwight,1277230,724,False,372
+6,12,Erin,379502,202,False,124
+6,12,Everyone,34377,1,False,2
+6,12,Group,69067,48,False,3
+6,12,Jim,1345295,670,False,254
+6,12,Kelly,103727,76,False,23
+6,12,Kelly and Erin,34538,25,False,14
+6,12,Kevin,448276,227,False,114
+6,12,Matt,138450,134,False,14
+6,12,Meredith,103683,71,False,30
+6,12,Michael,3283830,2548,False,1356
+6,12,Office,34518,19,False,2
+6,12,Oscar,448598,260,False,70
+6,12,Pam,552061,311,False,189
+6,12,Phyllis,932525,638,False,248
+6,12,Ryan,276098,160,False,36
+6,12,Stanley,172625,103,False,35
+6,12,Stephanie,34584,28,False,3
+6,12,Toby,207606,186,False,52
+6,13,Andy,34715,2,False,12
+6,13,Angela,69587,36,False,6
+6,13,Both,139275,84,False,15
+6,13,Computron,347524,100,False,61
+6,13,Dwight,591605,305,False,139
+6,13,Eric,903636,278,False,208
+6,13,Fake Stanley,34722,4,False,1
+6,13,Kevin,69588,36,False,3
+6,13,Michael,1530251,627,False,628
+6,13,Pam,173673,30,False,47
+6,13,Ryan,34736,8,False,11
+6,13,Toby,625689,213,False,133
+6,14,All,35085,42,False,5
+6,14,Andy,349756,238,False,102
+6,14,Andy & Erin,69781,18,False,68
+6,14,Angela,69993,58,False,10
+6,14,Both,35098,43,False,9
+6,14,Christian Slater,34903,12,False,67
+6,14,Creed,34860,6,False,6
+6,14,David,1191448,1181,False,303
+6,14,Dwight,313806,69,False,48
+6,14,Erin,209699,122,False,81
+6,14,Everyone,35077,42,False,8
+6,14,Gabe,628528,319,False,304
+6,14,Jerry,490072,430,False,162
+6,14,Jim,908999,615,False,314
+6,14,Jo,279696,216,False,178
+6,14,Jo Bennett,34904,12,False,20
+6,14,Kevin,35083,42,False,11
+6,14,Meredith,69826,32,False,12
+6,14,Michael,2867169,1922,False,1256
+6,14,Mrs. Wallace,105034,93,False,41
+6,14,Oscar,174320,34,False,38
+6,14,Pam,873125,437,False,177
+6,14,Phyllis,35081,42,False,10
+6,14,Stanley,34925,18,False,2
+6,14,Teddy,210560,258,False,14
+6,14,Teddy Wallace,34998,30,False,4
+6,14,Toby,69858,40,False,11
+6,15,Andy,845969,478,False,275
+6,15,Angela,35153,4,False,9
+6,15,Dwight,1375259,952,False,520
+6,15,Erin,811326,582,False,277
+6,15,Gabe,175717,15,False,43
+6,15,Hotel Employee,316032,9,False,102
+6,15,Jim,1163648,771,False,265
+6,15,Jo,1161556,403,False,524
+6,15,Kelly,388511,350,False,176
+6,15,Kevin,175999,60,False,12
+6,15,Meredith,141011,85,False,58
+6,15,Michael,2396128,1331,False,864
+6,15,Michael and Dwight,35123,1,False,2
+6,15,Nick,176600,170,False,38
+6,15,Oscar,211513,134,False,30
+6,15,Pam,176505,150,False,60
+6,15,Phyllis,141377,144,False,34
+6,15,Ryan,670733,582,False,169
+6,16,(Pam's mom) Heleen,35734,40,False,2
+6,16,Andy,893960,1072,False,506
+6,16,Angela,676748,539,False,103
+6,16,Clark,466362,767,False,132
+6,16,Creed,35634,23,False,3
+6,16,Dale,35847,55,False,3
+6,16,Doctor,107122,99,False,21
+6,16,Dwight,1676358,1453,False,667
+6,16,"Dwight, Jim and Michael",35630,23,False,3
+6,16,Erin,1254082,1793,False,272
+6,16,Everyone,35731,39,False,1
+6,16,Helene,178710,206,False,45
+6,16,Hospital employee,287373,481,False,56
+6,16,Isabelle,323705,574,False,59
+6,16,Jim,4783879,4869,False,1182
+6,16,Kathy,107751,181,False,18
+6,16,Kelly,106669,66,False,62
+6,16,Kevin,1036900,1263,False,223
+6,16,Meredith,213792,166,False,35
+6,16,Michael,4171863,3550,False,1513
+6,16,Nick,71063,30,False,32
+6,16,Nurse,680963,997,False,195
+6,16,Oscar,106918,82,False,31
+6,16,Pam,4495820,4358,False,1107
+6,16,Phyllis,213800,162,False,51
+6,16,Policeman,71330,56,False,26
+6,16,Ryan,71248,58,False,32
+6,16,Stanley,106869,82,False,23
+6,16,Toby,35639,24,False,3
+6,17,Andy,868787,697,False,225
+6,17,Andy and Dwight,144636,84,False,33
+6,17,Angela,108440,68,False,38
+6,17,D,36148,21,False,16
+6,17,Daryl,470138,317,False,149
+6,17,Dwight,1047757,565,False,392
+6,17,Erin,723733,549,False,194
+6,17,Gabe,108645,95,False,71
+6,17,Jim,1445337,789,False,328
+6,17,Jo,1916082,1198,False,698
+6,17,Kelly,108074,6,False,28
+6,17,Kevin,108515,78,False,43
+6,17,Meredith,144492,68,False,54
+6,17,"Meredith, Creed, Oscar and Matt",36285,43,False,2
+6,17,Michael,1880850,1303,False,751
+6,17,Night cleaning crew,36261,37,False,13
+6,17,Oscar,144704,109,False,35
+6,17,Pam,36075,14,False,25
+6,17,Phyllis,36033,4,False,1
+6,17,Reid,181263,180,False,46
+6,17,Ryan,108075,6,False,21
+6,17,Stanley,36034,4,False,1
+6,17,Todd Packer,217325,194,False,59
+6,17,Warehouse guy 1,108711,105,False,13
+6,17,Warehouse guy 2,36240,35,False,3
+6,18,Andy,547009,326,False,163
+6,18,Angela,218645,105,False,89
+6,18,Darryl,327531,112,False,71
+6,18,Dwight,1568467,977,False,546
+6,18,Erin,255190,147,False,102
+6,18,Gabe,254730,77,False,75
+6,18,Jim,1857366,777,False,458
+6,18,Kelly,291838,192,False,90
+6,18,Kevin,291800,188,False,61
+6,18,Meredith,109483,76,False,28
+6,18,Michael,3095381,1258,False,1289
+6,18,Miichael,36389,11,False,2
+6,18,Oscar,36557,32,False,9
+6,18,Pam,109295,50,False,28
+6,18,Phyllis,656597,401,False,223
+6,18,Ryan,109278,45,False,18
+6,18,Stanley,401134,230,False,84
+6,18,Toby,72950,48,False,31
+6,19,Andy,1286423,1013,False,383
+6,19,Angela,626261,698,False,128
+6,19,Bar Manager,810608,910,False,145
+6,19,Bouncer,36821,40,False,4
+6,19,Creed,36597,1,False,6
+6,19,Darryl,367174,206,False,148
+6,19,Dwight,1250463,1111,False,263
+6,19,Erin,588442,525,False,81
+6,19,Everyone,36604,1,False,4
+6,19,Girl at table,73716,84,False,3
+6,19,Hide,73677,81,False,80
+6,19,Isabel,662166,628,False,111
+6,19,Jim,1211908,801,False,244
+6,19,Julie,441298,380,False,76
+6,19,Kelly,147194,150,False,31
+6,19,Kevin,257079,169,False,51
+6,19,Matt,183929,148,False,31
+6,19,Meredith,36591,1,False,8
+6,19,Michael,2719309,2020,False,715
+6,19,Oscar,733924,341,False,148
+6,19,Pam,1139791,942,False,198
+6,19,Phyllis,219864,61,False,56
+6,19,Ryan,183774,165,False,43
+6,19,Stanley,36611,4,False,2
+6,19,Warehouse Guy,36616,5,False,3
+6,20,Andy,926856,471,False,508
+6,20,Angela,185496,109,False,52
+6,20,Cookie Monster,110835,3,False,57
+6,20,Darryl,111005,30,False,31
+6,20,Dwight,630059,294,False,214
+6,20,Dwight.,36975,7,False,2
+6,20,Erin,1927942,1050,False,540
+6,20,Gabe,853554,557,False,416
+6,20,Hayworth's waiter,148166,72,False,19
+6,20,Jim,296755,182,False,107
+6,20,Kelly,185506,114,False,35
+6,20,Kevin,741419,379,False,222
+6,20,Meredith,333583,165,False,48
+6,20,Michael,1704674,850,False,604
+6,20,Oscar,222312,93,False,37
+6,20,Oscar's voice from the computer,37195,35,False,23
+6,20,Pam,1038592,623,False,266
+6,20,Phyllis,111092,39,False,9
+6,20,Ryan,185039,47,False,27
+6,20,Toby,111436,87,False,55
+6,21,All,37493,42,False,1
+6,21,Andy,112273,106,False,62
+6,21,Angela,111701,26,False,23
+6,21,Creed,37336,25,False,15
+6,21,Darryl,149235,79,False,50
+6,21,Donna,1420231,1100,False,349
+6,21,Dwight,1681467,1225,False,626
+6,21,Erin,337115,346,False,74
+6,21,Gabe,560661,436,False,189
+6,21,Hide,74951,82,False,13
+6,21,Jim,1380904,801,False,230
+6,21,Kelly,1046890,863,False,313
+6,21,Kevin,299187,261,False,80
+6,21,Michael,3214273,2437,False,980
+6,21,Michael and Donna,37333,25,False,5
+6,21,Mihael,37402,32,False,4
+6,21,Oscar,335929,193,False,136
+6,21,Pam,1009054,752,False,288
+6,21,Phyllis,149690,141,False,49
+6,21,Ryan,149475,116,False,39
+6,21,Stanley,74924,80,False,24
+6,22,Andy,1131305,736,False,341
+6,22,Creed,75476,58,False,76
+6,22,Darryl,981342,757,False,301
+6,22,Donna,1358268,969,False,222
+6,22,Dwight,1430741,625,False,612
+6,22,Erin,113079,63,False,18
+6,22,Gabe,150642,73,False,134
+6,22,Glen,37765,33,False,6
+6,22,Gym Instructor,37837,42,False,13
+6,22,Gym instructor,75680,84,False,19
+6,22,Jim,526834,195,False,150
+6,22,Kelly,263760,142,False,63
+6,22,Meredith,37562,6,False,15
+6,22,Michael,3466339,1881,False,1016
+6,22,Old lady,37668,18,False,9
+6,22,Oscar,37584,6,False,6
+6,22,Pam,1583138,963,False,490
+6,22,Ryan,150327,27,False,65
+6,22,Stanley,112711,23,False,29
+6,23,Andy,1558677,907,False,470
+6,23,Angela,646171,358,False,155
+6,23,Creed,152247,109,False,34
+6,23,Darryl,152564,152,False,79
+6,23,Dwight,1367843,689,False,419
+6,23,Dwight and Angela,37907,7,False,2
+6,23,Erin,417393,134,False,114
+6,23,Everyone,189329,18,False,14
+6,23,Gabe,227978,118,False,114
+6,23,Jim,797957,413,False,118
+6,23,Kelly,190398,135,False,49
+6,23,Kevin,228260,138,False,21
+6,23,Lawyer,417975,211,False,132
+6,23,Meredith,113840,40,False,33
+6,23,Michael,3116241,1630,False,1325
+6,23,Oscar,114051,61,False,27
+6,23,Pam,1139218,489,False,293
+6,23,Phyllis,304363,191,False,31
+6,23,Reporter,114495,126,False,21
+6,23,Ryan,418871,298,False,110
+6,23,Shane,418706,307,False,64
+6,23,Stanley,76014,42,False,24
+6,23,Toby,189295,16,False,70
+6,24,Andy,651306,435,False,212
+6,24,Angela,153183,92,False,49
+6,24,Creed,76712,70,False,28
+6,24,Darryl,229654,111,False,64
+6,24,David Wallace,38366,36,False,42
+6,24,Dwight,727503,414,False,312
+6,24,Erin,153512,150,False,30
+6,24,Gabe,191740,165,False,81
+6,24,Hank,38393,39,False,15
+6,24,Jim,497832,291,False,90
+6,24,Jo,1646181,897,False,667
+6,24,Kelly,191516,117,False,87
+6,24,Kevin,267780,111,False,50
+6,24,Michael,2564633,1314,False,1012
+6,24,Nick,421519,299,False,258
+6,24,Oscar,76395,13,False,20
+6,24,Pam,650966,366,False,199
+6,24,Phyllis,191377,96,False,45
+6,24,Realtor,153333,119,False,55
+6,24,Ryan,76606,48,False,84
+6,24,Stanley,76718,70,False,10
+6,24,Toby,267900,123,False,32
+6,24,Todd Packer,38170,1,False,20
+7,1,All,76935,22,False,11
+7,1,Andy,615917,222,False,185
+7,1,Angela,115562,57,False,40
+7,1,Both,77214,60,False,5
+7,1,Creed,154179,84,False,66
+7,1,Darryl,192390,77,False,70
+7,1,Dwight,808811,406,False,256
+7,1,Erin,269463,109,False,80
+7,1,Gabe,424040,241,False,131
+7,1,Jim,848034,520,False,264
+7,1,Jo,269954,189,False,121
+7,1,Kelly,192433,64,False,99
+7,1,Kevin,192743,118,False,41
+7,1,Luke,693737,408,False,151
+7,1,Meredith,115639,74,False,17
+7,1,Michael,2235940,1452,False,1044
+7,1,Oscar,308109,166,False,81
+7,1,Pam,964188,667,False,230
+7,1,Phyllis,269484,131,False,82
+7,1,Ryan,115251,3,False,29
+7,1,Stanley,192428,59,False,23
+7,1,Toby,115589,59,False,22
+7,2,Andy,503900,270,False,188
+7,2,Angel,38791,25,False,8
+7,2,Angela,155283,124,False,20
+7,2,Creed,38722,13,False,6
+7,2,Darryl,155296,126,False,33
+7,2,Dwight,1860671,946,False,599
+7,2,Erin,155107,93,False,62
+7,2,Gabe,660493,607,False,185
+7,2,Jim,1317907,660,False,266
+7,2,Kelly,232482,110,False,50
+7,2,Michael,1202913,837,False,659
+7,2,Mose,77324,6,False,3
+7,2,Oscar,271382,169,False,26
+7,2,Pam,1512654,965,False,472
+7,2,Phyllis,116206,47,False,29
+7,2,Ryan,116262,58,False,24
+7,2,Salesman,388984,410,False,65
+7,2,Stanley,116239,59,False,23
+7,2,Toby,1358172,962,False,325
+7,2,Window treatment guy,116262,63,False,27
+7,3,All,78134,57,False,7
+7,3,Andy,1911949,1038,False,590
+7,3,Angela,624396,364,False,194
+7,3,Creed,78121,62,False,35
+7,3,Darryl,429740,336,False,90
+7,3,Dwight,663452,394,False,192
+7,3,Erin,741466,414,False,297
+7,3,Jim,741933,521,False,153
+7,3,Kelly,78012,42,False,15
+7,3,Meredith,39032,26,False,16
+7,3,Michael,1678439,1030,False,534
+7,3,Oscar,39135,41,False,6
+7,3,Pam,663850,473,False,193
+7,3,Phyllis,156387,138,False,20
+7,3,Shelby,312261,204,False,41
+7,3,Stanley,78115,56,False,15
+7,3,Sweeney Todd,546834,436,False,137
+7,3,Usher,77988,35,False,39
+7,4,Andy,1573387,897,False,523
+7,4,Angela,78392,16,False,29
+7,4,Astrid,118005,69,False,8
+7,4,Carrol,39441,32,False,20
+7,4,Carroll,551953,436,False,109
+7,4,Creed,78704,50,False,7
+7,4,Darryl,315385,247,False,114
+7,4,Donna,274722,98,False,44
+7,4,Dwight,1610676,691,False,534
+7,4,Employees except Dwight,39189,5,False,3
+7,4,Erin,157224,78,False,12
+7,4,Gabe,118269,93,False,80
+7,4,Helene,157591,114,False,47
+7,4,Holly,628686,293,False,150
+7,4,Jan,629090,347,False,274
+7,4,Jim,157222,79,False,19
+7,4,Jim and Pam,39364,25,False,2
+7,4,Kelly,196162,57,False,33
+7,4,Kevin,392796,175,False,51
+7,4,Meredith,274847,107,False,66
+7,4,Mexican Man,156620,8,False,8
+7,4,Michael,3460931,1931,False,1000
+7,4,Michel,39192,6,False,18
+7,4,Nate,274194,30,False,32
+7,4,Old Woman,118145,81,False,13
+7,4,Oscar,275715,198,False,56
+7,4,Pam,313916,95,False,94
+7,4,Phyllis,196174,61,False,45
+7,4,Ryan,39176,5,False,4
+7,4,Son,156624,8,False,37
+7,4,Stanley,157039,60,False,23
+7,5,All,159000,104,False,37
+7,5,Andy,1508057,845,False,404
+7,5,Angela,79338,43,False,6
+7,5,Creed,79388,50,False,9
+7,5,Danny,1589203,1068,False,348
+7,5,Darryl,913616,576,False,139
+7,5,Darryl and Andy,39657,23,False,22
+7,5,Dwight,2220051,1030,False,515
+7,5,Erin,79442,51,False,11
+7,5,Jim,2338178,1040,False,379
+7,5,Kelly,119043,63,False,20
+7,5,Kevin,476953,315,False,81
+7,5,Meredith,595275,363,False,146
+7,5,Michael,3371709,1773,False,1166
+7,5,Oscar,633708,239,False,89
+7,5,Pam,395398,87,False,90
+7,5,Phyllis,316789,111,False,45
+7,5,Receptionist,39598,14,False,4
+7,5,Ryan,119156,83,False,32
+7,5,Stanley,198320,104,False,24
+7,5,Steve,198056,75,False,26
+7,6,All,39872,5,False,2
+7,6,Andy,639776,400,False,242
+7,6,Angela,200033,144,False,92
+7,6,Creed,120011,90,False,39
+7,6,Danny,1120425,844,False,230
+7,6,Darryl,1040929,852,False,186
+7,6,Dwight,559418,308,False,240
+7,6,Erin,280166,223,False,54
+7,6,Gabe,560313,437,False,211
+7,6,Jim,1080050,760,False,366
+7,6,Kelly,200129,156,False,60
+7,6,Kevin,759604,457,False,202
+7,6,Meredith,40095,43,False,7
+7,6,Michael,2360599,1717,False,892
+7,6,Oscar,319989,214,False,127
+7,6,Pam,960377,710,False,326
+7,6,Phyllis,200067,151,False,16
+7,6,Ryan,240061,180,False,52
+7,6,Stanley,279464,88,False,63
+7,6,Toby,159754,78,False,14
+7,6,Todd Packer,199862,124,False,35
+7,7,All,40202,13,False,2
+7,7,Andy,1008517,962,False,278
+7,7,Angela,322454,258,False,104
+7,7,Another guy,40418,46,False,16
+7,7,Bus driver,121194,138,False,22
+7,7,Carla,80766,90,False,8
+7,7,Church congregation,40200,13,False,9
+7,7,Darryl,80620,72,False,17
+7,7,Doug,201758,205,False,52
+7,7,Doug [church member],40245,25,False,5
+7,7,Dwight,643482,245,False,287
+7,7,Erin,363455,373,False,92
+7,7,Female church member,40208,15,False,14
+7,7,Female church member [to Michael],40237,22,False,2
+7,7,Gabe,80639,76,False,22
+7,7,Girl,362746,309,False,183
+7,7,Guy,322936,337,False,56
+7,7,Helene,40381,45,False,15
+7,7,Jim,1530098,964,False,352
+7,7,Jim's Dad,40370,45,False,14
+7,7,Kelly,80380,23,False,16
+7,7,Kevin,161298,144,False,54
+7,7,Lady,40242,23,False,2
+7,7,Male church member,120757,74,False,19
+7,7,Mee-Maw,40307,35,False,11
+7,7,MeeMaw,40348,43,False,8
+7,7,Michael,2982212,2337,False,998
+7,7,Michael and Andy,40415,46,False,9
+7,7,Oscar,80614,72,False,27
+7,7,Pam,1327332,560,False,388
+7,7,Pastor,281486,108,False,134
+7,7,Phyllis,201596,184,False,40
+7,7,Radio,40431,48,False,41
+7,7,Ryan,241424,124,False,63
+7,7,Stanley,120833,90,False,37
+7,7,Students,40310,37,False,3
+7,7,Toby,120733,66,False,68
+7,7,Woman,120867,99,False,31
+7,8,Andy,1095676,733,False,310
+7,8,Angela,365353,241,False,74
+7,8,Cece,40505,17,False,1
+7,8,Creed,162538,138,False,28
+7,8,Daryl,243468,168,False,87
+7,8,Dwight,1055258,729,False,374
+7,8,Erin,1703732,970,False,383
+7,8,Gabe,730309,459,False,202
+7,8,Jim,730308,471,False,161
+7,8,Kelly,526931,265,False,170
+7,8,Kevin,364782,158,False,78
+7,8,Michael,2271204,1242,False,844
+7,8,Oscar,283814,165,False,64
+7,8,Pam,933814,688,False,300
+7,8,Phyllis,487363,372,False,106
+7,8,Reporter,80868,2,False,16
+7,8,Ryan,121614,69,False,67
+7,8,Stanley,40455,6,False,1
+7,8,TV,40607,32,False,10
+7,9,Andy,409024,244,False,77
+7,9,Angela,817327,403,False,138
+7,9,Creed,122856,87,False,53
+7,9,Daryl,409353,289,False,120
+7,9,Dwight,979608,319,False,498
+7,9,Erin,285341,40,False,39
+7,9,Gabe,327132,182,False,140
+7,9,Guy,40778,8,False,6
+7,9,Jim,979695,337,False,294
+7,9,Jo,163999,144,False,190
+7,9,Kelly,204446,124,False,86
+7,9,Kevin,367473,135,False,78
+7,9,Kid,40862,20,False,6
+7,9,Kids,40860,20,False,1
+7,9,Little Girl,81740,46,False,10
+7,9,Man,409382,291,False,102
+7,9,Meridith,81677,30,False,7
+7,9,Michael,2697260,1284,False,733
+7,9,Micheal,40902,25,False,1
+7,9,Oscar,204155,80,False,44
+7,9,Pam,1143889,499,False,260
+7,9,Phyliss,40824,15,False,8
+7,9,Phyllis,40810,13,False,10
+7,9,Robotic Voice,81755,40,False,15
+7,9,Ryan,2206864,1072,False,601
+7,9,Ryan and Michael,40748,3,False,1
+7,9,Stanley,286181,154,False,75
+7,10,Andy,946809,398,False,191
+7,10,Angela,123358,41,False,37
+7,10,Creed,82426,44,False,13
+7,10,Darryl,535024,219,False,130
+7,10,Dwight,1976041,824,False,766
+7,10,Dwight & Nate,41247,25,False,4
+7,10,Erin,411262,132,False,102
+7,10,Gabe,41131,15,False,8
+7,10,Hank,123096,6,False,24
+7,10,Jim,1111657,474,False,268
+7,10,Kelly,329342,141,False,65
+7,10,Kevin,329077,117,False,53
+7,10,Meredith,82253,27,False,10
+7,10,Michael,2305615,1000,False,747
+7,10,Nate,535700,275,False,93
+7,10,Oscar,1030356,554,False,254
+7,10,Pam,1852997,829,False,471
+7,10,Pam ,41262,26,False,1
+7,10,Passer-by,206270,125,False,14
+7,10,Phyllis,123349,39,False,30
+7,10,Ryan,288327,138,False,48
+7,10,Stanley,246566,66,False,55
+7,11,AJ,627333,980,False,69
+7,11,All,41359,4,False,2
+7,11,Andy,1163337,758,False,309
+7,11,Angela,1081942,964,False,231
+7,11,Bass Player,83324,86,False,9
+7,11,Creed,166911,213,False,24
+7,11,Darrly,41807,63,False,9
+7,11,Darryl,957826,922,False,313
+7,11,Dwight,1579922,1218,False,469
+7,11,Erin,748820,616,False,131
+7,11,Gabe,248718,92,False,68
+7,11,Holly,2082971,2108,False,487
+7,11,Jada,836732,1346,False,70
+7,11,Jim,2083067,2165,False,433
+7,11,Justine,83046,46,False,25
+7,11,Kelly,582225,477,False,168
+7,11,Kevin,623909,517,False,166
+7,11,Meredith,416292,397,False,70
+7,11,Michael,5408978,4617,False,1875
+7,11,Nate,206700,5,False,65
+7,11,Oscar,499459,465,False,72
+7,11,Pam,2873234,2767,False,803
+7,11,Phyllis,540182,365,False,91
+7,11,Robert,208971,307,False,23
+7,11,Ryan,458621,519,False,132
+7,11,Stanley,208044,176,False,78
+7,11,Toby,1038319,640,False,254
+7,12,Andy,884172,444,False,214
+7,12,Angela,294160,93,False,14
+7,12,Bookstore employee,84142,38,False,19
+7,12,Creed,548512,387,False,85
+7,12,Customer,84153,40,False,2
+7,12,DJ,126594,83,False,32
+7,12,Darryl,884368,464,False,220
+7,12,Dwight,1429215,481,False,385
+7,12,Erin,883258,370,False,140
+7,12,Gabe,84242,46,False,2
+7,12,Holly,799640,373,False,251
+7,12,Jim,335498,22,False,44
+7,12,Kelly,420887,192,False,48
+7,12,Kevin,800845,443,False,166
+7,12,Man,125797,7,False,28
+7,12,Member,83888,6,False,7
+7,12,Meredith,42199,27,False,13
+7,12,Michael,3156713,1472,False,925
+7,12,Oscar,126210,51,False,24
+7,12,Pam,1304645,592,False,324
+7,12,Phyllis,378535,155,False,78
+7,12,Ryan,253129,160,False,49
+7,12,Video Michael,293994,91,False,56
+7,13,Andy,2161960,1259,False,803
+7,13,Creed,84796,50,False,50
+7,13,Darryl,127336,105,False,31
+7,13,David,507084,12,False,96
+7,13,David Brent,42244,1,False,3
+7,13,Dwight,805044,412,False,125
+7,13,Erin,1059613,595,False,163
+7,13,Gabe,297370,285,False,135
+7,13,Guy,84866,68,False,25
+7,13,Hank,84828,58,False,12
+7,13,Holly,508897,330,False,78
+7,13,Jim,1018336,775,False,204
+7,13,Kelly,508807,317,False,130
+7,13,Kevin,381329,179,False,152
+7,13,Michael,1566655,599,False,516
+7,13,Older Woman,84860,63,False,9
+7,13,Older guy,42297,9,False,11
+7,13,Oscar,593534,363,False,114
+7,13,Pam,763293,510,False,148
+7,13,Phyllis,127049,53,False,10
+7,13,"Phyllis, Stanley, Dwight",42298,9,False,1
+7,13,Professor Powell,169568,100,False,31
+7,13,Ryan,338867,144,False,44
+7,13,Stanley,84619,19,False,3
+7,13,Tom,425020,440,False,70
+7,13,Younger Guy,126912,27,False,48
+7,14,Andy,597665,185,False,49
+7,14,Angela,42801,23,False,15
+7,14,Attendant,255908,50,False,43
+7,14,Cell Phone Sales Person,85484,36,False,21
+7,14,Darrly,42663,10,False,3
+7,14,Darryl,341687,117,False,100
+7,14,Dwight,1111081,445,False,331
+7,14,Dwight and Erin,42746,18,False,2
+7,14,Erin,597946,212,False,138
+7,14,Gabe,1068939,477,False,391
+7,14,Guy,42617,5,False,8
+7,14,Helen,213055,25,False,45
+7,14,Holly,1281196,440,False,222
+7,14,Hot Dog Guy,213635,85,False,18
+7,14,Jim,1363197,128,False,310
+7,14,Kelly,382861,9,False,122
+7,14,Kevin,298874,95,False,26
+7,14,Meredith,128065,41,False,7
+7,14,Micahel,42757,19,False,6
+7,14,Michael,1792134,464,False,689
+7,14,Office,42702,14,False,1
+7,14,Oscar,512434,169,False,76
+7,14,Pam,1535242,309,False,249
+7,14,Phyllis,427689,203,False,50
+7,14,Ryan,255264,6,False,84
+7,14,Ryan and Kelly,42540,1,False,10
+7,14,Stanley,128331,63,False,14
+7,14,Waiter,342062,154,False,49
+7,15,Andy,1590744,665,False,251
+7,15,Andy and Erin,43060,26,False,6
+7,15,Angela,386472,123,False,53
+7,15,Boom Box,43023,20,False,18
+7,15,Creed,42967,16,False,12
+7,15,Darryl,686971,182,False,131
+7,15,Dwight,1033844,626,False,228
+7,15,Erin,1633540,681,False,240
+7,15,Everyone,42926,12,False,1
+7,15,Gabe,901978,308,False,348
+7,15,Hank,86239,62,False,32
+7,15,Holly,1636444,950,False,303
+7,15,Jim,988606,409,False,139
+7,15,Jim and Pam,43059,26,False,1
+7,15,Kelly,43186,39,False,12
+7,15,Kevin,559595,308,False,89
+7,15,Meredith,42953,16,False,6
+7,15,Michael,3143162,1766,False,795
+7,15,Oscar,730640,288,False,88
+7,15,Pam,1031213,372,False,206
+7,15,Phyllis,128748,31,False,35
+7,15,Ryan,258406,158,False,83
+7,15,Stanley,42976,17,False,3
+7,16,Andy,86485,102,False,17
+7,16,Creed,43201,5,False,2
+7,16,Daryl,43210,13,False,35
+7,16,Dwight,129680,94,False,63
+7,16,Erin,43192,3,False,32
+7,16,Holly,648471,536,False,98
+7,16,Jan,43213,27,False,31
+7,16,Jim,259288,155,False,102
+7,16,Karen,43216,39,False,12
+7,16,Kelly,43220,41,False,6
+7,16,Kevin,86444,82,False,15
+7,16,Michael,1426604,1172,False,610
+7,16,Pam,172790,18,False,109
+7,16,Ryan,43222,41,False,6
+7,17,Andy,1259716,476,False,532
+7,17,Angela,43513,21,False,4
+7,17,Daryl,174276,116,False,47
+7,17,Dwight,1779093,503,False,600
+7,17,Erin,433769,117,False,196
+7,17,Gabe,43318,7,False,4
+7,17,Holly,1388501,409,False,256
+7,17,Holy,43488,20,False,7
+7,17,Jim,1649128,476,False,444
+7,17,Kelly,130373,53,False,39
+7,17,Kevin,563825,140,False,138
+7,17,Meredith,129968,24,False,45
+7,17,Michael,2476145,958,False,766
+7,17,Oscar,43510,21,False,26
+7,17,Pam,1563709,606,False,399
+7,17,Phyllis,43376,12,False,10
+7,17,Ryan,173702,60,False,51
+7,17,Stanley,43374,12,False,9
+7,17,Todd,1607050,602,False,476
+7,18,Andy,742394,238,False,125
+7,18,Angela,43849,39,False,4
+7,18,Darryl,437134,193,False,82
+7,18,Dwight,1353365,388,False,384
+7,18,Gabe,43846,39,False,4
+7,18,Holly,2056243,1168,False,319
+7,18,Holly's Dad,218275,60,False,23
+7,18,Holly's Mom,174638,48,False,27
+7,18,Jim,1049956,581,False,232
+7,18,Kelly,130872,27,False,34
+7,18,Kevin,786901,366,False,145
+7,18,Lady,43619,7,False,7
+7,18,Meredith,130789,16,False,7
+7,18,Micahel,43683,13,False,5
+7,18,Michael,3150136,1789,False,972
+7,18,Oscar,306100,152,False,93
+7,18,Pam,1398098,513,False,334
+7,18,Phyllis,131223,72,False,67
+7,18,Ryan,393694,210,False,140
+7,18,Stanley,43840,39,False,3
+7,19,Andy,528249,277,False,202
+7,19,Angela,175970,82,False,53
+7,19,Darryl,352014,169,False,69
+7,19,Darryl's sister,88104,56,False,16
+7,19,Deangelo,3562009,1261,False,1004
+7,19,Deangelo/Michael,87789,3,False,10
+7,19,Denagelo,43998,20,False,3
+7,19,Dwight,440130,229,False,136
+7,19,Erin,439989,209,False,80
+7,19,Gabe,176260,124,False,68
+7,19,Jim,440465,259,False,94
+7,19,Kelly,219675,51,False,50
+7,19,Kevin,176018,84,False,33
+7,19,Meredith,43967,17,False,4
+7,19,Micahel,44100,32,False,15
+7,19,Michael,2989837,974,False,821
+7,19,Oscar,220129,114,False,65
+7,19,Pam,351920,149,False,68
+7,19,Phyllis,88079,54,False,9
+7,19,Ryan,88051,48,False,23
+7,19,Stanley,132087,75,False,20
+7,19,Waiter,43866,1,False,6
+7,20,All,177421,108,False,53
+7,20,Andy,177214,92,False,60
+7,20,Angela,88477,32,False,30
+7,20,Audience,88539,40,False,5
+7,20,Creed,44357,27,False,6
+7,20,Darryl,132833,62,False,30
+7,20,DeAngelo,2388266,821,False,732
+7,20,Dwight,575381,245,False,203
+7,20,Erin,530596,169,False,197
+7,20,Erin and Kelly,44350,27,False,4
+7,20,Gabe,88592,48,False,45
+7,20,Jim,1061520,358,False,241
+7,20,Jo,176924,64,False,64
+7,20,Kelly and Erin,44360,27,False,6
+7,20,Kevin,265481,110,False,44
+7,20,Manager,132881,72,False,45
+7,20,Meredith,265340,86,False,74
+7,20,Michael,3626589,1235,False,1326
+7,20,Michael ,44274,20,False,4
+7,20,Oscar,265825,134,False,44
+7,20,Pam,663409,223,False,160
+7,20,Phyllis,132688,47,False,46
+7,20,Ryan,265296,83,False,82
+7,20,Stanley,132799,55,False,19
+7,20,Toby,88719,56,False,76
+7,20,Together,44265,19,False,2
+7,20,Women,44353,27,False,6
+7,21,Andy,1068735,574,False,212
+7,21,Angela,533770,198,False,88
+7,21,Client,44652,46,False,2
+7,21,Creed,89262,77,False,16
+7,21,Darryl,133752,90,False,33
+7,21,DeAgnelo,44611,34,False,20
+7,21,DeAngelo,1113775,673,False,755
+7,21,Dwight,711505,229,False,344
+7,21,Erin,535116,378,False,96
+7,21,Gabe,445055,197,False,141
+7,21,Holly,267156,138,False,59
+7,21,Jim,803357,742,False,199
+7,21,Kelly,133634,74,False,37
+7,21,Kevin,489420,211,False,63
+7,21,Meredith,267051,121,False,78
+7,21,Michael,5166112,2916,False,2129
+7,21,Oscar,266946,115,False,39
+7,21,Pam,890077,401,False,227
+7,21,Phyllis,801283,396,False,197
+7,21,Rory,89156,58,False,21
+7,21,Ryan,133629,75,False,25
+7,21,Stanley,312003,235,False,36
+7,21,Toby,222802,135,False,59
+7,21,Warehouse Guy,44589,31,False,1
+7,21,abe,44567,28,False,28
+7,22,Andy,403393,167,False,207
+7,22,Angela,179469,100,False,59
+7,22,Darryl,358642,167,False,60
+7,22,Deangelo,4034094,1818,False,1309
+7,22,Dwight,896318,393,False,188
+7,22,Erin,134775,102,False,19
+7,22,Gabe,358830,193,False,62
+7,22,Jim,1794267,957,False,370
+7,22,Jordan,404017,250,False,51
+7,22,Kelly,672607,343,False,189
+7,22,Kevin,582604,245,False,134
+7,22,Oscar,89658,40,False,13
+7,22,Pam,1075425,416,False,303
+7,22,Phyllis,179283,78,False,26
+7,22,Ryan,672393,323,False,254
+7,22,Toby,44705,3,False,1
+7,23,All,89970,12,False,37
+7,23,All but Oscar,44985,6,False,2
+7,23,Andy,1172060,474,False,235
+7,23,Angela,496779,296,False,54
+7,23,Creed,90060,28,False,14
+7,23,Darryl,225626,119,False,42
+7,23,Darryl and Angela,45210,32,False,1
+7,23,Dwight,3292026,1479,False,1097
+7,23,Dwight [on phone],44976,3,False,9
+7,23,Erin,585751,215,False,91
+7,23,Gabe,901498,349,False,291
+7,23,Jim,1261422,393,False,626
+7,23,Jo,632567,403,False,219
+7,23,Jordan,90118,38,False,8
+7,23,Kelly,270462,110,False,75
+7,23,Kevin,903031,529,False,156
+7,23,Meredith,45081,21,False,19
+7,23,Mose [on phone],44977,3,False,1
+7,23,Oscar,180465,95,False,39
+7,23,Pam,495444,145,False,84
+7,23,Phyllis,225322,83,False,28
+7,23,Ryan,90226,44,False,12
+7,23,Stanley,90129,33,False,23
+7,23,Toby,270716,138,False,63
+7,24,All,45675,69,False,10
+7,24,Andy,1181698,1093,False,482
+7,24,Angela,500144,498,False,272
+7,24,Creed,772309,656,False,346
+7,24,Darryl,1226223,1031,False,390
+7,24,David Brent,45442,48,False,116
+7,24,Dwight,2001089,2161,False,655
+7,24,Erin,1045498,1006,False,260
+7,24,Finger Lakes Guy,45703,78,False,60
+7,24,Fred,407649,139,False,124
+7,24,Fred Henry,45234,8,False,18
+7,24,Gabe,1363596,1342,False,423
+7,24,Jada,91376,142,False,34
+7,24,Jim,4092780,4237,False,1074
+7,24,Jo,1275121,1599,False,430
+7,24,Jordan,91054,114,False,7
+7,24,Kelly,774168,964,False,298
+7,24,Kevin,637596,756,False,164
+7,24,Meredith,273032,306,False,60
+7,24,Merv,453726,309,False,206
+7,24,Merv Bronte,45321,23,False,12
+7,24,Nellie,409474,489,False,211
+7,24,Nellie Bertram,45463,52,False,7
+7,24,Oscar,1001180,1173,False,156
+7,24,Pam,1455065,1518,False,269
+7,24,Pam as fourth-biggest client,137136,240,False,32
+7,24,Pam as ninth-biggest client,91424,160,False,17
+7,24,Phyllis,909056,847,False,269
+7,24,Robert,544159,318,False,319
+7,24,Robert California,45290,19,False,7
+7,24,Ryan,501266,650,False,181
+7,24,Stanley,181826,181,False,94
+7,24,Toby,589814,394,False,145
+7,24,Warren,90570,34,False,36
+7,24,Warren Buffett,45282,17,False,7
+8,1,All,45974,58,False,1
+8,1,Andy,2384270,1607,False,866
+8,1,Angela,320813,193,False,61
+8,1,Creed,45949,48,False,18
+8,1,Darryl,229203,145,False,32
+8,1,Darryl & Oscar,45978,58,False,5
+8,1,Dwight,1742544,1258,False,418
+8,1,Erin,412121,209,False,89
+8,1,Everyone,91709,61,False,4
+8,1,Gabe,137900,166,False,117
+8,1,Jim,1741483,1109,False,468
+8,1,Kelly,275018,154,False,69
+8,1,Kevin,458590,335,False,78
+8,1,Meredith,275272,216,False,62
+8,1,Oscar,321083,226,False,72
+8,1,Pam,1145779,689,False,278
+8,1,Phyllis,504299,350,False,63
+8,1,Robert,1513615,1132,False,416
+8,1,Ryan,229725,245,False,131
+8,1,Stanley,366568,214,False,107
+8,1,Toby,183728,183,False,65
+8,1,Waiter,91964,116,False,29
+8,2,All,46286,37,False,2
+8,2,Andy,3971316,1803,False,1186
+8,2,Angela,646392,294,False,117
+8,2,Darryl,322529,73,False,131
+8,2,Dwight,968137,273,False,235
+8,2,Erin,830939,394,False,183
+8,2,Group,92434,46,False,2
+8,2,Jim,1938374,716,False,539
+8,2,Justine,138369,48,False,13
+8,2,Kelly,231093,128,False,65
+8,2,Kevin,1105479,209,False,187
+8,2,Meredith,230778,91,False,16
+8,2,Oscar,322485,64,False,36
+8,2,Pam,1570001,690,False,243
+8,2,Phyllis,369129,137,False,62
+8,2,Robert,1106362,343,False,312
+8,2,Ryan,230740,90,False,28
+8,2,Stanley,230754,83,False,52
+8,2,Tattoo Artist,369949,204,False,50
+8,2,Toby,46294,37,False,5
+8,3,Andy,2927245,1195,False,1024
+8,3,Angela,139212,30,False,19
+8,3,Bruce,46514,27,False,2
+8,3,Creed,46587,34,False,22
+8,3,Darryl,2276885,934,False,599
+8,3,Dwight,1719735,785,False,402
+8,3,"Dwight, Erin, Jim & Kevin",46585,32,False,29
+8,3,Erin,558338,335,False,87
+8,3,Female Applicant,92890,33,False,10
+8,3,Gideon,93018,54,False,25
+8,3,Jim,2417055,1131,False,571
+8,3,Kelly,278081,17,False,79
+8,3,Kevin,977204,607,False,219
+8,3,Male Applicant 1,139356,51,False,19
+8,3,Male Applicant 2,46462,19,False,4
+8,3,Meredith,185420,14,False,40
+8,3,Nate,139596,87,False,92
+8,3,Oscar,834764,135,False,224
+8,3,Pam,1068369,392,False,229
+8,3,Phyllis,325060,104,False,66
+8,3,Ryan,278794,116,False,86
+8,3,Toby,93186,72,False,45
+8,4,Andy,3084852,1638,False,809
+8,4,Andy & Walter,140422,120,False,36
+8,4,Angela,608329,465,False,175
+8,4,Darryl,467828,330,False,141
+8,4,Dwight,1356367,888,False,356
+8,4,Ellen,140341,98,False,12
+8,4,Erin,233785,146,False,22
+8,4,Erin's Cell Phone,46816,40,False,13
+8,4,Gabe,187023,123,False,86
+8,4,Jim,1075505,659,False,282
+8,4,Kelly,140126,53,False,19
+8,4,Kevin,280723,206,False,50
+8,4,Meredith,280384,133,False,77
+8,4,Mose,233560,80,False,39
+8,4,Oscar,467711,304,False,70
+8,4,Pam,701622,473,False,139
+8,4,Phyllis,139993,22,False,20
+8,4,Robert,841724,531,False,286
+8,4,Ryan,374156,247,False,76
+8,4,Stanley,46669,8,False,16
+8,4,Toby,280272,96,False,40
+8,4,Waiter,46750,26,False,11
+8,4,Walter,982519,744,False,198
+8,4,Walter & Walter Jr,46814,40,False,45
+8,4,Walter Jr,280629,182,False,43
+8,5,Andy,1597693,719,False,421
+8,5,Angela,235235,152,False,64
+8,5,Bert,1082847,812,False,163
+8,5,Creed,188589,185,False,29
+8,5,Darryl,423593,297,False,45
+8,5,Dwight,988168,645,False,169
+8,5,Erin,1692946,974,False,498
+8,5,Gabe,423333,253,False,105
+8,5,Gabe/Kelly/Toby,46982,22,False,15
+8,5,Jim,1364540,915,False,389
+8,5,Kelly,563559,212,False,90
+8,5,Kevin,423072,200,False,68
+8,5,Meredith,423677,311,False,139
+8,5,Oscar,470799,364,False,96
+8,5,Pam,1269488,737,False,253
+8,5,Phyllis,329185,190,False,41
+8,5,Robert,1506113,1089,False,557
+8,5,Ryan,140925,58,False,16
+8,5,Stanley,188249,130,False,43
+8,5,Toby,329356,226,False,85
+8,6,Andy,2555171,1264,False,573
+8,6,Andy/Pam,47194,3,False,19
+8,6,Andy/Stanley,47199,7,False,10
+8,6,Angela,331361,199,False,52
+8,6,Darryl,756979,372,False,113
+8,6,Dwight,2414055,1325,False,867
+8,6,Erin,378827,218,False,68
+8,6,Gabe,1135549,557,False,344
+8,6,Jim,2085388,1491,False,398
+8,6,Kelly,236491,101,False,49
+8,6,Kevin,473502,280,False,54
+8,6,Oscar,521005,341,False,107
+8,6,Pam,995725,760,False,190
+8,6,Phyllis,94652,51,False,15
+8,6,Robert,1658641,1151,False,293
+8,6,Ryan,142057,84,False,33
+8,6,Stanley,425911,220,False,163
+8,6,Toby,378016,112,False,51
+8,6,Val,520674,278,False,67
+8,6,Warehouse Crew,141869,57,False,5
+8,7,Andy,2046825,389,False,442
+8,7,Andy and Darryl,143478,108,False,19
+8,7,Cathy,476682,160,False,64
+8,7,Client,142591,6,False,16
+8,7,Creed,95434,46,False,9
+8,7,Curtis,143037,51,False,24
+8,7,Darryl,1096063,347,False,187
+8,7,Darryl and Kevin,47827,36,False,2
+8,7,Drummer,47673,17,False,3
+8,7,Dwight,2624363,1219,False,706
+8,7,Erin,617805,20,False,66
+8,7,Gabe,95167,14,False,30
+8,7,Jim,1908738,887,False,299
+8,7,Kelly,286133,110,False,124
+8,7,Kevin,715258,269,False,90
+8,7,Offscreen,47581,7,False,2
+8,7,Old Man,191127,123,False,23
+8,7,Oscar,190343,28,False,24
+8,7,Pam,3099368,1164,False,586
+8,7,Pam and Kelly,47712,21,False,3
+8,7,Phyllis,95185,14,False,9
+8,7,Robert,476428,125,False,77
+8,7,Ryan,285685,60,False,62
+8,7,Toby,190349,28,False,52
+8,7,Val,190897,95,False,27
+8,8,Amanda,48036,32,False,77
+8,8,Andy,2782611,1398,False,1019
+8,8,Angela,47870,9,False,10
+8,8,Archivist,96059,63,False,18
+8,8,Audience,47996,26,False,1
+8,8,Chelsea,47979,20,False,6
+8,8,Darryl,623988,353,False,98
+8,8,Dwight,1439231,679,False,382
+8,8,Erin,815326,365,False,86
+8,8,Everyone,191535,41,False,20
+8,8,Gabe,479403,164,False,293
+8,8,Jim,1200068,694,False,330
+8,8,Kelly,239505,66,False,26
+8,8,Kevin,863911,474,False,236
+8,8,Man,47983,21,False,5
+8,8,Meredith,47849,6,False,2
+8,8,Narrator,96067,64,False,50
+8,8,Oscar,959418,439,False,123
+8,8,Pam,861828,161,False,184
+8,8,Park Ranger,143919,60,False,19
+8,8,Phyllis,527919,303,False,91
+8,8,Robert,1151723,580,False,283
+8,8,Ryan,527524,219,False,213
+8,8,Soldier,48033,32,False,36
+8,8,Stanley,191900,84,False,93
+8,9,Andy,2847396,1329,False,610
+8,9,Andy/Oscar,48237,20,False,18
+8,9,Angela,96465,38,False,7
+8,9,Bob's Secretary,96812,94,False,15
+8,9,Creed,96445,34,False,14
+8,9,Darryl,1158255,527,False,241
+8,9,Dwight,2507917,935,False,770
+8,9,Erin,386054,180,False,59
+8,9,Gabe,193459,142,False,52
+8,9,Jim,1399467,646,False,497
+8,9,Kathy,48396,41,False,2
+8,9,Kelly,48228,18,False,14
+8,9,Kevin,96485,41,False,51
+8,9,Meredith,48391,39,False,18
+8,9,Mrs. California,48409,48,False,3
+8,9,Oscar,578975,258,False,116
+8,9,Phyllis,144732,64,False,26
+8,9,Robert,1931072,967,False,537
+8,9,Ryan,144485,30,False,31
+8,9,Stanley,48403,46,False,3
+8,9,Susan,2317260,1172,False,443
+8,9,Toby,144696,60,False,15
+8,10,Andy,4276398,2310,False,996
+8,10,Angela,97127,48,False,16
+8,10,Creed,97110,41,False,20
+8,10,Darryl,485273,168,False,96
+8,10,Dwight,1360193,690,False,389
+8,10,Erin,1845474,820,False,373
+8,10,Jessica,1068830,522,False,99
+8,10,Jim,2137597,1033,False,481
+8,10,Kathy,146218,141,False,8
+8,10,Kelly,485612,205,False,75
+8,10,Kevin,485470,198,False,52
+8,10,Meredith,876436,693,False,142
+8,10,Nate,242854,106,False,60
+8,10,Oscar,437382,219,False,50
+8,10,Phyllis,340236,176,False,31
+8,10,Robert,1263448,672,False,386
+8,10,Ryan,486418,344,False,53
+8,10,Stanley,242204,31,False,101
+8,10,Toby,291460,151,False,97
+8,10,Val,436708,146,False,47
+8,11,All,97622,12,False,3
+8,11,Andy,2150366,572,False,641
+8,11,Angela,97812,34,False,13
+8,11,Announcer,196060,112,False,27
+8,11,Cathy,48876,12,False,7
+8,11,Creed,48873,12,False,18
+8,11,Darryl,488487,103,False,78
+8,11,Dwight,1661742,418,False,412
+8,11,Einsteins,49015,28,False,1
+8,11,Erin,293509,93,False,37
+8,11,Gabe,1026338,256,False,281
+8,11,Group,49029,32,False,1
+8,11,Host,1370380,500,False,469
+8,11,Jim,928234,205,False,159
+8,11,Kelly,342893,168,False,100
+8,11,Kevin,929618,336,False,182
+8,11,Meredith,342670,133,False,26
+8,11,Meredith & Kelly,49010,26,False,5
+8,11,Oscar,928476,234,False,241
+8,11,Oscar's friend,146891,60,False,6
+8,11,Phyllis,146632,37,False,33
+8,11,Queerenstein Bears,48941,18,False,3
+8,11,Receptionist,195364,38,False,38
+8,11,Robert,782462,242,False,378
+8,11,Ryan,293511,94,False,47
+8,11,Stanley,244534,80,False,52
+8,11,Stonewall Host,146991,74,False,45
+8,11,Stu,48957,19,False,3
+8,12,All,98478,59,False,6
+8,12,Andy,2164835,1170,False,388
+8,12,Angela,245987,129,False,27
+8,12,Both,49196,26,False,9
+8,12,Cathy,147373,52,False,19
+8,12,Darryl,491963,260,False,101
+8,12,Dwight,2312513,1220,False,397
+8,12,Erin,2853396,1484,False,573
+8,12,Gabe,442980,258,False,82
+8,12,Jessica,836666,488,False,112
+8,12,Jim,1081164,426,False,320
+8,12,Kathy,49306,39,False,4
+8,12,Kelly,295271,165,False,64
+8,12,Kevin,540879,243,False,113
+8,12,Meredith,442507,196,False,77
+8,12,Oscar,590022,263,False,82
+8,12,Phyllis,147760,100,False,42
+8,12,Robert,1179620,487,False,537
+8,12,Ryan,492350,304,False,81
+8,12,Stanley,343378,40,False,51
+8,12,Toby,393845,233,False,44
+8,12,Val,344393,184,False,37
+8,13,All,49578,30,False,1
+8,13,Andy,2326664,882,False,584
+8,13,"Andy, Darryl & Officer Foley",49716,42,False,20
+8,13,Angela,1536181,754,False,220
+8,13,Cece,347293,213,False,11
+8,13,Creed,247912,145,False,33
+8,13,Darryl,645243,424,False,136
+8,13,Dwight,2872759,1252,False,889
+8,13,Erin,692613,221,False,104
+8,13,Ernesto,197844,63,False,25
+8,13,Gabe,247373,73,False,52
+8,13,Jim,3616625,1696,False,850
+8,13,Kelly,99210,60,False,22
+8,13,Kevin,593099,128,False,84
+8,13,Meredith,98804,16,False,25
+8,13,Nate,148404,48,False,70
+8,13,Nurse,99294,64,False,13
+8,13,Officer Foley,99419,84,False,24
+8,13,Oscar,1187827,438,False,229
+8,13,Pam,1389347,896,False,179
+8,13,Phyllis,594081,224,False,66
+8,13,Ryan,98984,35,False,16
+8,13,Senator Lipton,445794,199,False,49
+8,13,Stanley,347152,197,False,108
+8,13,Toby,247193,66,False,38
+8,13,Val,148053,3,False,15
+8,14,All,49722,1,False,1
+8,14,Andy,2243675,763,False,438
+8,14,Angela,398135,38,False,115
+8,14,Bob,199324,60,False,45
+8,14,Creed,49883,18,False,2
+8,14,Darryl,1146788,425,False,210
+8,14,Dwight,3342251,1391,False,1171
+8,14,Erin,748007,276,False,198
+8,14,Group,99600,19,False,11
+8,14,Jim,1496746,664,False,287
+8,14,Kathy,99811,51,False,35
+8,14,Kelly,398965,159,False,76
+8,14,Kevin,249243,77,False,74
+8,14,Meredith,99735,36,False,18
+8,14,Nate,598211,204,False,168
+8,14,Oscar,199289,51,False,26
+8,14,Pam,1444661,354,False,237
+8,14,Phyllis,99617,21,False,16
+8,14,Ryan,599253,339,False,179
+8,14,Stanley,349114,134,False,92
+8,14,Toby,99812,46,False,15
+8,14,Val,448863,177,False,42
+8,15,Andy,1103156,477,False,278
+8,15,Cathy,200284,49,False,42
+8,15,Creed,100216,34,False,15
+8,15,Darryl,200600,89,False,81
+8,15,Donna Muraski,100484,70,False,21
+8,15,Dwight,3158501,1267,False,1116
+8,15,Emergency Operator,50112,16,False,8
+8,15,Erin,1052923,439,False,184
+8,15,Everyone,150271,42,False,12
+8,15,Jim,1603340,522,False,309
+8,15,Kelly,150191,33,False,40
+8,15,Kevin,100365,53,False,24
+8,15,Meredith,100121,22,False,23
+8,15,Nellie,1354282,635,False,556
+8,15,Oscar,50053,11,False,9
+8,15,Packer,852396,350,False,176
+8,15,Pam,501337,206,False,88
+8,15,Paramedic,100307,44,False,11
+8,15,Ryan,450942,151,False,73
+8,15,Saleswoman,50030,9,False,4
+8,15,Stanley,651432,223,False,112
+8,15,Wally Amos,200997,144,False,45
+8,16,Andy,1007827,455,False,246
+8,16,Angela,553510,129,False,47
+8,16,Angela/Pam,50273,8,False,1
+8,16,Brandon,604800,297,False,85
+8,16,Cathy,1362518,798,False,236
+8,16,Darryl,706361,411,False,99
+8,16,Dwight,3026874,1672,False,849
+8,16,Erin,958378,524,False,140
+8,16,Everyone,100824,51,False,2
+8,16,Gabe,302505,150,False,47
+8,16,Jim,2775298,1611,False,405
+8,16,Kelly,403399,212,False,140
+8,16,Kevin,201536,92,False,25
+8,16,Nellie,1210347,626,False,272
+8,16,Oscar,502990,102,False,92
+8,16,Packer,553612,172,False,82
+8,16,Pam,755274,235,False,160
+8,16,Phyllis,201719,108,False,30
+8,16,Ryan,1008921,561,False,163
+8,16,Stanley,302410,147,False,66
+8,16,Val,454025,256,False,54
+8,16,Waitress,50335,16,False,3
+8,17,Andy,1419434,374,False,400
+8,17,Angela,456685,165,False,44
+8,17,Blogger,202796,54,False,22
+8,17,Blogger 2,50685,12,False,10
+8,17,Cathy,202554,24,False,34
+8,17,Creed,50699,17,False,6
+8,17,Crowd,101636,52,False,2
+8,17,Darryl,202823,58,False,33
+8,17,Dwight,2688438,874,False,756
+8,17,Erin,506996,137,False,158
+8,17,Everyone,50714,17,False,2
+8,17,Girl,203009,80,False,22
+8,17,Jim,1421113,552,False,394
+8,17,Kelly,456974,189,False,111
+8,17,Kevin,405516,102,False,91
+8,17,Lady,253771,100,False,53
+8,17,Lady Blogger,50717,18,False,5
+8,17,Man,50654,8,False,2
+8,17,Meredith,152041,41,False,20
+8,17,Nellie,963686,298,False,283
+8,17,Old Lady,203124,92,False,37
+8,17,Oscar,304346,102,False,55
+8,17,Others,50831,27,False,1
+8,17,Pam,507031,137,False,75
+8,17,Patty,50719,18,False,1
+8,17,Phyllis,101306,18,False,18
+8,17,Ryan,862085,266,False,259
+8,17,Stanley,50769,21,False,3
+8,17,Toby,913628,370,False,278
+8,17,Todd Packer,202477,16,False,38
+8,18,Andy,1019113,340,False,334
+8,18,Angela,152641,18,False,17
+8,18,Cathy,51052,30,False,7
+8,18,Creed,101734,7,False,16
+8,18,Darryl,1325415,547,False,345
+8,18,Dwight,2294933,1065,False,606
+8,18,Elderly Woman,50899,10,False,8
+8,18,Erin,764377,290,False,214
+8,18,Everyone,50854,1,False,5
+8,18,Gabe,50948,19,False,13
+8,18,Irene,305722,113,False,68
+8,18,Jim,2295511,1158,False,435
+8,18,Kelly,153209,103,False,73
+8,18,Kevin,968817,450,False,302
+8,18,Meredith,50998,25,False,13
+8,18,Nellie,611277,190,False,179
+8,18,Oscar,203645,37,False,108
+8,18,Pam,510190,265,False,103
+8,18,Phyllis,306003,142,False,43
+8,18,Robert California,713604,298,False,216
+8,18,Ryan,102122,62,False,9
+8,18,Stanley,102093,61,False,9
+8,18,Toby,815509,322,False,154
+8,18,Todd Packer,459242,250,False,186
+8,19,All,102489,44,False,24
+8,19,Alonzo,51156,10,False,7
+8,19,Andy,1691973,979,False,451
+8,19,Angela,51245,29,False,17
+8,19,Creed,51306,35,False,5
+8,19,Darryl,358754,185,False,15
+8,19,Dwight,1076130,552,False,198
+8,19,Erin,1640866,954,False,329
+8,19,Erin and Irene,51192,19,False,7
+8,19,Glenn,204839,93,False,30
+8,19,Irene,819905,442,False,169
+8,19,Jim,1947624,1044,False,301
+8,19,Kelly,51291,34,False,2
+8,19,Kevin,409594,131,False,51
+8,19,Meredith,102482,43,False,12
+8,19,Nellie,2152424,1093,False,751
+8,19,Oscar,51123,4,False,17
+8,19,Pam,870880,383,False,192
+8,19,Phyllis,204924,100,False,18
+8,19,Robert,1229355,543,False,292
+8,19,Ryan,51125,4,False,10
+8,19,Stanley,51347,39,False,4
+8,19,Toby,153443,24,False,58
+8,20,All,154815,60,False,8
+8,20,Andy,2474249,777,False,562
+8,20,Angela,412211,114,False,84
+8,20,Creed,154788,58,False,55
+8,20,Darryl,51574,18,False,28
+8,20,Dwight,1132887,257,False,205
+8,20,Erin,1288314,380,False,178
+8,20,Gabe,102788,2,False,17
+8,20,Hank,206716,100,False,35
+8,20,Jessica,722290,272,False,103
+8,20,Jim,2009112,528,False,386
+8,20,Kenny,258203,112,False,20
+8,20,Kevin,154655,43,False,34
+8,20,Kevin & Meredith,51416,2,False,3
+8,20,Lauren,567077,184,False,125
+8,20,Magician,516388,226,False,181
+8,20,Megan,361151,133,False,54
+8,20,Nellie,1132429,184,False,388
+8,20,Oscar,566571,133,False,109
+8,20,Pam,1648122,377,False,332
+8,20,Party guests,51558,17,False,12
+8,20,Phyllis,463124,77,False,64
+8,20,Robert,978416,181,False,234
+8,20,Ryan,154732,54,False,22
+8,20,Stanley,51421,2,False,3
+8,20,Various,103346,48,False,21
+8,20,Woman,51664,24,False,2
+8,21,All,51840,35,False,1
+8,21,Andy,2746796,1510,False,588
+8,21,Andy & Erin,51705,8,False,4
+8,21,Angela,363014,239,False,21
+8,21,Creed,103697,72,False,14
+8,21,Darryl,258823,90,False,51
+8,21,Dwight,828960,440,False,289
+8,21,Erin,1244020,727,False,192
+8,21,Gabe,207482,154,False,57
+8,21,Jim,985027,582,False,145
+8,21,Kelly,674275,446,False,126
+8,21,Kevin,466284,234,False,66
+8,21,Meredith,51694,5,False,4
+8,21,Nate,51911,43,False,32
+8,21,Nellie,1865030,950,False,313
+8,21,Oscar,362807,209,False,48
+8,21,Pam,1503339,874,False,354
+8,21,Phyllis,517294,110,False,127
+8,21,Ravi,51730,11,False,43
+8,21,Robert,933470,623,False,251
+8,21,Robert & Creed,51836,35,False,4
+8,21,Ryan,1555852,1018,False,524
+8,21,Stanley,51858,37,False,2
+8,21,Toby,51884,39,False,11
+8,21,Wrangler,103878,92,False,11
+8,22,Andy,2136491,829,False,589
+8,22,Angela,208101,18,False,74
+8,22,Creed,52054,10,False,11
+8,22,Darryl,729553,279,False,74
+8,22,David,260555,105,False,83
+8,22,Dwight,781230,237,False,344
+8,22,Erin,364819,146,False,73
+8,22,Jim,1250363,444,False,233
+8,22,Kevin,938266,396,False,296
+8,22,Meredith,104232,43,False,7
+8,22,Nellie,885294,236,False,203
+8,22,Oscar,833753,335,False,189
+8,22,Pam,1145815,344,False,165
+8,22,Phyllis,52022,4,False,11
+8,22,Robert,677218,231,False,196
+8,22,Ryan,883949,29,False,218
+8,22,Senator,364962,179,False,86
+8,22,Speaker,312970,185,False,100
+8,22,Stanley,52079,16,False,7
+8,22,Vet,313046,192,False,110
+8,22,Waiter,104172,32,False,10
+8,23,All,52234,3,False,3
+8,23,Andy,1466055,558,False,468
+8,23,Angela,157146,69,False,51
+8,23,Creed,52304,12,False,2
+8,23,David,209960,140,False,43
+8,23,Dwight,2931285,1030,False,502
+8,23,Erin,418489,105,False,89
+8,23,Gabe,679577,124,False,159
+8,23,Harry,1309095,507,False,291
+8,23,Jim,2512145,820,False,370
+8,23,Kevin,52275,7,False,4
+8,23,Mr. Ramish,576429,295,False,86
+8,23,Nellie,786468,430,False,178
+8,23,Oscar,52273,7,False,4
+8,23,Pam,1205557,620,False,140
+8,23,Phone,209780,128,False,83
+8,23,Phyllis,52270,7,False,12
+8,23,Receptionist,209496,84,False,22
+8,23,Robert,1728258,705,False,447
+8,23,Stanley,52269,7,False,5
+8,23,Toby,366171,99,False,102
+8,24,Andy,2581268,1337,False,555
+8,24,Angela,1053700,552,False,176
+8,24,Brandon,316006,156,False,61
+8,24,Calvin,157631,30,False,18
+8,24,Creed,52573,14,False,9
+8,24,Darryl,789331,301,False,235
+8,24,David,896648,598,False,188
+8,24,Dwight,1420831,504,False,251
+8,24,Erin,474067,240,False,104
+8,24,Gabe,105244,42,False,11
+8,24,Hide,105084,20,False,6
+8,24,Jake,52528,4,False,5
+8,24,Jim,1630801,549,False,226
+8,24,Kelly,210254,35,False,50
+8,24,Kevin,157818,47,False,23
+8,24,Meredith,105306,46,False,8
+8,24,Mose,105516,72,False,7
+8,24,Nellie,1000256,441,False,119
+8,24,Oscar,578583,155,False,139
+8,24,Others,52721,33,False,1
+8,24,Pam,1157436,404,False,117
+8,24,Photographer,105224,34,False,8
+8,24,Phyllis,263103,88,False,23
+8,24,Ravi,52716,32,False,4
+8,24,Robert,790384,413,False,264
+8,24,Sasha,52526,2,False,3
+8,24,Senator Lipton,737506,380,False,93
+8,24,Stanley,52739,33,False,6
+8,24,Toby,263484,150,False,51
+8,24,Val,210761,115,False,13
+9,1,Andy,1746004,1005,False,480
+9,1,Angela,846954,537,False,228
+9,1,Clark,1163798,609,False,184
+9,1,Creed,53017,52,False,62
+9,1,Darryl,158763,97,False,23
+9,1,David,52877,26,False,10
+9,1,Doctor,52801,3,False,11
+9,1,Dwight,2223271,1407,False,549
+9,1,Erin,211289,46,False,81
+9,1,Jim,1110940,564,False,265
+9,1,Kelly,105636,18,False,27
+9,1,Kevin,370027,144,False,161
+9,1,Meredith,105856,72,False,11
+9,1,Nellie,529253,350,False,95
+9,1,Off-camera,105652,26,False,13
+9,1,Oscar,476466,305,False,69
+9,1,Pam,1005434,558,False,184
+9,1,Pete,688080,438,False,105
+9,1,Phyllis,52832,15,False,1
+9,1,Rafe,52931,34,False,1
+9,1,Ryan,52822,12,False,43
+9,1,Stanley,158687,87,False,17
+9,1,Toby,581585,244,False,158
+9,2,Andy,1756511,1202,False,331
+9,2,Angela,372259,198,False,80
+9,2,Clark,1170251,662,False,322
+9,2,Creed,212280,40,False,31
+9,2,Darryl,585387,390,False,129
+9,2,Dwight,1649687,1037,False,300
+9,2,Erin,1648840,915,False,330
+9,2,Jim,2072397,842,False,394
+9,2,Kenny,53118,17,False,19
+9,2,Kevin,530922,134,False,107
+9,2,Meredith,53222,37,False,15
+9,2,Nellie,1648717,887,False,344
+9,2,Oscar,266043,173,False,60
+9,2,Pam,1805915,596,False,517
+9,2,Pete,850749,430,False,166
+9,2,Phyllis,53191,31,False,6
+9,2,Roy,584171,183,False,159
+9,2,Server,106142,24,False,13
+9,2,Stanley,53082,14,False,3
+9,2,Toby,265880,138,False,32
+9,3,Andy,2351526,1219,False,718
+9,3,Angela,106969,72,False,8
+9,3,Clark,213503,63,False,40
+9,3,Darryl,1657613,964,False,322
+9,3,Dwight,1281194,357,False,251
+9,3,Erin,1121693,459,False,155
+9,3,Fake Jim,319955,6,False,82
+9,3,Jim,1016521,685,False,216
+9,3,Kevin,160455,107,False,13
+9,3,Meredith,53490,37,False,10
+9,3,Nellie,1817384,950,False,472
+9,3,Nellie and Pam,53360,9,False,2
+9,3,Oscar,374159,206,False,110
+9,3,Pam,1817194,928,False,346
+9,3,Pete,267189,137,False,28
+9,3,Phyllis,160347,89,False,33
+9,3,Stanley,106956,67,False,16
+9,3,Voicemail,106655,2,False,9
+9,4,Andy,2147523,604,False,507
+9,4,Angela,268683,110,False,53
+9,4,Clark,644207,187,False,51
+9,4,Creed,161271,71,False,25
+9,4,Darryl,590034,105,False,56
+9,4,Dwight,2148511,721,False,682
+9,4,Erin,590853,217,False,113
+9,4,Group,1021696,484,False,68
+9,4,"Group: Dunder Mifflin!
+Andy: Andy Bernard presents: Summer Softball Epic Fails! [Kevin swings bat on screen, fart noise follows] Fail. [repeats] Fail",53564,1,False,1
+9,4,Jim,3223989,1240,False,668
+9,4,Kevin,860570,434,False,125
+9,4,Meredith,375998,127,False,35
+9,4,Nellie,1450073,475,False,242
+9,4,Oscar,698824,312,False,112
+9,4,Pam,1558903,681,False,204
+9,4,Pete,107509,47,False,8
+9,4,Phyllis,268556,89,False,26
+9,4,"Phyllis, Kevin & Stanley",53720,19,False,5
+9,4,Stanley,536878,162,False,63
+9,4,Toby,107178,4,False,14
+9,4,"[Clark and Pete are shown on screen]
+Video Andy: Hey, I'm Pete, puberty is such a drag, man. And I'm Clark! I like to eat toilet paper. [Clark and Pete wave at camera] We fail! [Video shows memorial of Jerry",53573,1,False,1
+9,4,"[repeats]
+Andy: Fail",53565,1,False,1
+9,5,All,54105,32,False,1
+9,5,Andy,2701870,1242,False,659
+9,5,Angela,323988,128,False,82
+9,5,Broccoli Rob,594914,333,False,204
+9,5,Businessman #1,107960,44,False,8
+9,5,Businessman #2,161950,66,False,54
+9,5,Businessman #3,161955,66,False,17
+9,5,Clark,270290,132,False,45
+9,5,Creed,162027,68,False,15
+9,5,Darryl,324008,133,False,41
+9,5,Dwight,2105332,702,False,514
+9,5,Erin,1296872,576,False,210
+9,5,HCT,756698,364,False,31
+9,5,HCT Member #1,53961,18,False,6
+9,5,HCT Member #2,107930,36,False,17
+9,5,HCT Member #3,540718,294,False,121
+9,5,Jim,1890766,806,False,312
+9,5,Kevin,108282,71,False,51
+9,5,Meredith,270109,121,False,31
+9,5,Nellie,1134447,496,False,209
+9,5,Oscar,162042,75,False,17
+9,5,Pam,1728671,721,False,253
+9,5,Pete,107996,46,False,11
+9,5,Senator Lipton,270075,125,False,33
+9,5,Stanley,108019,41,False,18
+9,5,Toby,270169,140,False,20
+9,6,All,54412,40,False,7
+9,6,Andy,2932969,1507,False,735
+9,6,Angela,651522,295,False,111
+9,6,Boat Guy,652328,423,False,121
+9,6,Creed,54188,7,False,7
+9,6,Darryl,216857,44,False,34
+9,6,David Wallace,380828,273,False,26
+9,6,Dwight,1846595,940,False,460
+9,6,Erin,2173321,1251,False,364
+9,6,Jim,488303,163,False,97
+9,6,Kevin,1357367,633,False,287
+9,6,Meredith,162582,27,False,37
+9,6,Nellie,868728,422,False,333
+9,6,Oscar,1466021,689,False,283
+9,6,Pam,596488,154,False,169
+9,6,Pete,543816,378,False,75
+9,6,Senator Liptop,163269,126,False,54
+9,6,Toby,488866,279,False,86
+9,6,Walt Jr.,217662,170,False,68
+9,6,White,54174,3,False,8
+9,7,Andy,490166,25,False,181
+9,7,Angela,1146715,526,False,209
+9,7,Business partner,545874,228,False,91
+9,7,Clark,218464,97,False,30
+9,7,Colin,218912,148,False,37
+9,7,Creed,54506,8,False,3
+9,7,Darryl,163445,19,False,22
+9,7,David,326904,42,False,86
+9,7,Dwight,2893227,1139,False,655
+9,7,Erin,982252,341,False,168
+9,7,Everyone,108921,4,False,2
+9,7,Guys in breakroom,54511,10,False,1
+9,7,Hank,163900,81,False,11
+9,7,Jan,1367051,832,False,238
+9,7,Jim,1201325,517,False,236
+9,7,Kevin,163654,52,False,12
+9,7,Meredith,218334,79,False,28
+9,7,Molly,164054,103,False,59
+9,7,Nellie,327434,116,False,133
+9,7,Oscar,1146736,527,False,233
+9,7,Pam,2458905,1276,False,473
+9,7,Pete,491740,245,False,57
+9,7,Phyllis,763539,209,False,164
+9,7,Secretary,109280,56,False,15
+9,7,Toby,272698,82,False,56
+9,8,Angela,2854370,970,False,388
+9,8,Creed,164841,74,False,23
+9,8,Darryl,329133,91,False,46
+9,8,David,164385,27,False,39
+9,8,Dwight,3130193,1219,False,611
+9,8,Erin,329702,154,False,52
+9,8,Everyone,494476,222,False,32
+9,8,Hide,219575,74,False,13
+9,8,Jim,1591605,522,False,311
+9,8,Kevin,878265,310,False,92
+9,8,Meredith,439140,152,False,36
+9,8,Nellie,494565,234,False,56
+9,8,Oscar,1207955,436,False,299
+9,8,Pam,933327,334,False,271
+9,8,Pete,1262861,480,False,285
+9,8,Phyllis,659432,306,False,101
+9,8,Stanley,768935,308,False,71
+9,8,Toby,440482,288,False,37
+9,8,Trevor,1207515,397,False,214
+9,8,Waiter,109780,34,False,11
+9,9,Angela,606493,119,False,62
+9,9,Creed,110199,11,False,14
+9,9,Darryl,939401,475,False,176
+9,9,Dwight,3258694,1430,False,990
+9,9,Erin,1324110,394,False,248
+9,9,Jim,3203777,1431,False,555
+9,9,Kevin,716702,138,False,133
+9,9,Meredith,275831,71,False,53
+9,9,Nellie,607638,274,False,73
+9,9,Oscar,386229,112,False,109
+9,9,Pam,1767587,779,False,250
+9,9,Pete,1213758,362,False,207
+9,9,Phyllis,552030,207,False,131
+9,9,Stanley,275804,69,False,34
+9,9,Toby,607878,306,False,162
+9,10,Angela,887668,445,False,112
+9,10,Both,55609,52,False,42
+9,10,Creed,222034,120,False,31
+9,10,Darryl,831964,378,False,206
+9,10,Dwight,998545,496,False,398
+9,10,Erin,1442102,666,False,336
+9,10,Helene,111092,74,False,47
+9,10,Jim,1552525,589,False,395
+9,10,Julius,444362,312,False,77
+9,10,Julius Irving,55494,29,False,18
+9,10,Kevin,776466,319,False,141
+9,10,Limo Driver,110886,48,False,20
+9,10,Meredith,1221171,733,False,283
+9,10,Nellie,499366,251,False,205
+9,10,Oscar,554991,309,False,83
+9,10,Pam,2441284,1263,False,578
+9,10,Pete,388933,289,False,46
+9,10,Phyllis,443912,230,False,58
+9,10,Stanley,221823,96,False,31
+9,10,Val,721596,409,False,107
+9,10,Worker,55376,10,False,3
+9,11,3rd Athlead Employee,55779,20,False,7
+9,11,4th Athlead Employee,55780,20,False,14
+9,11,Angela,725047,294,False,73
+9,11,Athlead Employee,502000,192,False,128
+9,11,Clark,1950951,638,False,477
+9,11,Creed,167414,81,False,13
+9,11,Darryl,1059446,377,False,306
+9,11,Dennis,167100,42,False,17
+9,11,Dwight,2284828,680,False,738
+9,11,Erin,612866,167,False,314
+9,11,Everyone,55691,13,False,12
+9,11,Female Athlead Employee,111590,46,False,17
+9,11,Jim,1002703,241,False,247
+9,11,Kevin,1059108,361,False,151
+9,11,Meredith,334251,90,False,48
+9,11,Nellie,501811,191,False,78
+9,11,New Instant Message,55610,1,False,16
+9,11,Oscar,1059269,388,False,183
+9,11,Pam,1282303,452,False,315
+9,11,Pete,111442,32,False,16
+9,11,Phyllis,334129,75,False,26
+9,11,Stanley,223293,111,False,54
+9,11,Suit Store Father,613075,192,False,100
+9,11,Suit Store Son,558062,254,False,57
+9,11,Wade,55710,14,False,1
+9,12,All,223818,84,False,11
+9,12,Angela,336017,174,False,74
+9,12,Audience,56020,31,False,1
+9,12,Ballerinas,112033,62,False,6
+9,12,Brian,280745,250,False,36
+9,12,Cameraman,56148,50,False,1
+9,12,Cece,223819,100,False,8
+9,12,Clark,55984,29,False,14
+9,12,Co-worker,168097,103,False,33
+9,12,Co-worker #2,55921,17,False,4
+9,12,Creed,112121,80,False,5
+9,12,Dance Teacher,56014,31,False,7
+9,12,Darryl,1345131,904,False,199
+9,12,Drive Thru Customer,56097,47,False,12
+9,12,Dwight,2463524,1225,False,610
+9,12,Erin,1007864,516,False,204
+9,12,Fast Food Worker,56072,43,False,3
+9,12,Guy,168471,153,False,36
+9,12,Investor,56041,36,False,9
+9,12,Jim,2072360,1139,False,568
+9,12,Kevin,559505,191,False,78
+9,12,Lonnie,112094,76,False,13
+9,12,Meredith,112144,84,False,13
+9,12,Mr. Romanko,167982,90,False,18
+9,12,Nellie,1344349,783,False,324
+9,12,Oscar,448004,236,False,50
+9,12,Pam,2690494,1825,False,573
+9,12,Parent in Audience,56016,31,False,1
+9,12,Parent in audience #1,56023,31,False,3
+9,12,Parent in audience #2,56022,31,False,3
+9,12,Pete,671956,357,False,90
+9,12,Phyllis,168020,91,False,49
+9,12,Stanley,55998,30,False,6
+9,12,Toby,392473,294,False,65
+9,13,Angela,56299,27,False,18
+9,13,Brian,393189,7,False,63
+9,13,Clark,1856574,618,False,296
+9,13,Darryl,112615,53,False,23
+9,13,David Wallace,506858,252,False,90
+9,13,Dwight,4898984,2408,False,1235
+9,13,Erin,112334,2,False,10
+9,13,Gabor,168879,74,False,43
+9,13,Hide,225386,130,False,43
+9,13,Jim,2534257,1300,False,593
+9,13,Kevin,56274,21,False,7
+9,13,Melvina,281683,163,False,78
+9,13,Meredith,281076,45,False,27
+9,13,Mose,225124,92,False,6
+9,13,Nate,112682,67,False,61
+9,13,Nellie,168945,86,False,42
+9,13,Oscar,112575,48,False,45
+9,13,Pam,1351517,643,False,177
+9,13,Pam & Dwight,56433,46,False,1
+9,13,Rolf,675088,234,False,118
+9,13,Sensei Ira,56388,43,False,2
+9,13,Stanley,112569,47,False,25
+9,13,Trevor,506692,244,False,101
+9,13,Troy,56337,30,False,1
+9,13,Wolf,563650,372,False,96
+9,13,Zeke,225292,118,False,47
+9,14,Angela,847832,260,False,189
+9,14,Athlead Employee,56549,22,False,9
+9,14,Brian,453467,282,False,95
+9,14,Clark,226500,120,False,40
+9,14,Creed,56493,16,False,8
+9,14,Darryl,1979974,831,False,334
+9,14,Dwight,2093070,878,False,480
+9,14,Erin,564585,76,False,159
+9,14,Frank,452917,224,False,84
+9,14,Glenn,56524,19,False,5
+9,14,Jim,1697012,712,False,349
+9,14,Kevin,339398,135,False,120
+9,14,Meredith,56492,16,False,25
+9,14,Nate,226155,80,False,48
+9,14,Nellie,508626,138,False,84
+9,14,Oscar,678673,259,False,180
+9,14,Pam,3224961,1397,False,870
+9,14,Party Announcer,56546,21,False,9
+9,14,Party Guest,56594,27,False,5
+9,14,Party Photographer,283237,160,False,82
+9,14,Party Waiter,56646,32,False,1
+9,14,Phyllis,56498,16,False,5
+9,14,Senator,453074,244,False,158
+9,14,Toby,169720,69,False,30
+9,14,Val,56527,19,False,16
+9,15,Andy,3525288,1581,False,867
+9,15,Angela,227293,81,False,61
+9,15,Brian,567800,171,False,168
+9,15,Clark,511343,176,False,117
+9,15,Darryl,170222,32,False,69
+9,15,David Wallace,569063,303,False,91
+9,15,Dwight,1818241,675,False,404
+9,15,Erin,1478088,590,False,315
+9,15,Jan,454710,184,False,74
+9,15,Jim,1477695,560,False,375
+9,15,Kevin,340817,109,False,85
+9,15,Meredith,113589,36,False,44
+9,15,Nail manager,113512,28,False,32
+9,15,Nail stylist 1,56744,12,False,17
+9,15,Nail stylist 2,113493,24,False,15
+9,15,Nellie,397315,94,False,128
+9,15,Oscar,397422,110,False,81
+9,15,Pam,1591027,556,False,221
+9,15,Pete,454573,145,False,115
+9,15,Phyllis,340711,102,False,92
+9,15,Stanley,56724,9,False,16
+9,16,Alice,1089620,788,False,179
+9,16,Andy,4741689,1497,False,1166
+9,16,Angela,2401192,982,False,223
+9,16,Athlead Coworker,57130,18,False,9
+9,16,Clark,514378,196,False,63
+9,16,Creed,228818,104,False,18
+9,16,Darryl,286086,135,False,45
+9,16,David,854640,15,False,65
+9,16,David Wallace,56960,1,False,23
+9,16,Dwight,2514477,924,False,556
+9,16,Erin,1889636,1068,False,293
+9,16,Gabe,1147746,902,False,238
+9,16,Isaac,171366,54,False,22
+9,16,Jim,1605118,1078,False,258
+9,16,Kevin,286298,158,False,21
+9,16,Mark,1201942,594,False,689
+9,16,Meredith,400122,153,False,45
+9,16,Nellie,457991,242,False,148
+9,16,Oscar,458553,302,False,198
+9,16,Oscar's Computer,57452,50,False,18
+9,16,Pam,3149079,1714,False,498
+9,16,Pete,2347065,1236,False,294
+9,16,Phyllis,571346,189,False,60
+9,16,Roger,57221,27,False,4
+9,16,Shirley,972310,434,False,120
+9,16,Stanley,285657,90,False,32
+9,16,Toby,858318,403,False,254
+9,17,Andy,288187,149,False,109
+9,17,Angela,460994,235,False,41
+9,17,Aunt Shirley,172735,54,False,79
+9,17,Cameron,518733,294,False,71
+9,17,Clark,287941,107,False,47
+9,17,Creed,172583,28,False,48
+9,17,Darryl,57673,35,False,10
+9,17,Dwight,2934904,766,False,648
+9,17,Erin,230085,49,False,31
+9,17,Esther,115088,20,False,15
+9,17,Fannie,1094191,397,False,260
+9,17,German Minister,172595,30,False,42
+9,17,Henry,172641,30,False,43
+9,17,Jeb,690729,198,False,181
+9,17,Jim,345058,61,False,57
+9,17,Kevin,691359,317,False,113
+9,17,Meredith,172837,78,False,17
+9,17,Mose,172466,21,False,19
+9,17,Nellie,115224,50,False,24
+9,17,Oscar,632617,89,False,120
+9,17,Pam,1209455,485,False,236
+9,17,Phyllis,460652,160,False,94
+9,17,Stanley,115224,50,False,36
+9,17,Todd Packer,805993,269,False,434
+9,17,Zeke,517866,111,False,69
+9,18,Andy,635675,165,False,283
+9,18,Angela,1851649,760,False,337
+9,18,Angela & Oscar,57972,33,False,2
+9,18,Brian,1331671,676,False,162
+9,18,Clark,1329668,436,False,205
+9,18,Darryl,694031,255,False,63
+9,18,Dwight,2139757,762,False,407
+9,18,Erin,173390,55,False,37
+9,18,Esther,463498,238,False,101
+9,18,Group,231020,49,False,5
+9,18,Jim,1792563,605,False,214
+9,18,Kevin,519807,110,False,104
+9,18,Meredith,173325,45,False,34
+9,18,Mr. Ruger,289146,114,False,40
+9,18,Nellie,231417,94,False,51
+9,18,Oscar,1678528,743,False,203
+9,18,Pam,2428755,855,False,415
+9,18,Pete,115648,44,False,20
+9,18,Phyllis,346456,60,False,29
+9,18,Promo Announcer,115790,54,False,4
+9,18,Promo Voice,57739,8,False,52
+9,18,Ruger Sister 1,115676,47,False,16
+9,18,Ruger Sister 2,57841,24,False,6
+9,18,Ryan Howard,983409,391,False,190
+9,18,Salesman,57840,23,False,5
+9,18,Salesmen,57835,23,False,13
+9,18,Senator,57971,33,False,12
+9,18,Stanley,289083,107,False,82
+9,18,Toby,115483,22,False,57
+9,19,Andy,1802576,946,False,495
+9,19,Angela,232475,102,False,54
+9,19,Carla,466016,376,False,94
+9,19,Clark,2151260,1108,False,231
+9,19,Creed,116338,66,False,8
+9,19,Crowd,116316,65,False,4
+9,19,Dwight,3546904,1862,False,828
+9,19,Erin,580511,137,False,140
+9,19,Everyone,116257,54,False,3
+9,19,Jim,871468,347,False,163
+9,19,Kevin,290798,164,False,54
+9,19,Man,349118,223,False,105
+9,19,Meredith,116245,55,False,14
+9,19,Mrs. Davis,291172,225,False,30
+9,19,Nellie,754987,260,False,142
+9,19,Oscar,406526,125,False,69
+9,19,Pam,522737,187,False,122
+9,19,Pete,116188,46,False,8
+9,19,Phyllis,290359,96,False,25
+9,19,Reporter #1,58149,32,False,11
+9,19,Reporter #2,58150,32,False,5
+9,19,Robert,406998,215,False,162
+9,19,Stanley,1220858,594,False,199
+9,19,Toby,871652,376,False,158
+9,19,Todd,116524,96,False,6
+9,20,Andy,2276623,911,False,532
+9,20,Angela,934416,435,False,265
+9,20,"Bob Vance, Vance Refrigeration",58402,30,False,5
+9,20,Carla Fern,291948,135,False,66
+9,20,Clark,350143,115,False,78
+9,20,Creed,58491,41,False,18
+9,20,Darryl,583795,236,False,79
+9,20,Director,759418,409,False,117
+9,20,Dwight,1226360,579,False,274
+9,20,Erin,933889,343,False,208
+9,20,Esther,350631,200,False,80
+9,20,Group,116730,41,False,2
+9,20,Jim,993076,509,False,239
+9,20,Kevin,583730,251,False,80
+9,20,Nellie,1167588,475,False,286
+9,20,Oscar,116630,22,False,14
+9,20,Pam,1284878,603,False,277
+9,20,Pastor,58502,45,False,56
+9,20,Pete,233706,130,False,19
+9,20,Phillip,58332,15,False,1
+9,20,Producer,350645,207,False,40
+9,20,Production Assistant,58432,32,False,19
+9,20,Robert,116641,22,False,23
+9,20,Stanley,116639,22,False,15
+9,20,Toby,407986,37,False,44
+9,20,Woman,175044,66,False,34
+9,21,Andy,3991016,2072,False,1059
+9,21,Angela,1763359,1198,False,387
+9,21,Clark,469047,184,False,162
+9,21,Creed,117318,51,False,34
+9,21,Darryl,647008,502,False,127
+9,21,David Wallace,2169987,950,False,414
+9,21,Dwight,3168899,1636,False,655
+9,21,Erin,527939,238,False,143
+9,21,Esther,58620,24,False,9
+9,21,Jim,3696713,1794,False,569
+9,21,Kevin,763136,411,False,137
+9,21,Meredith,58724,36,False,15
+9,21,Nellie,293467,168,False,117
+9,21,Oscar,1116730,751,False,209
+9,21,Pam,1760079,851,False,142
+9,21,Pete,293220,122,False,59
+9,21,Phyllis,235045,155,False,44
+9,21,Sensei,644682,256,False,145
+9,21,Stanley,235106,166,False,52
+9,21,Toby,411586,301,False,30
+9,22,Aaron Rodgers,236977,216,False,39
+9,22,Andy,2601143,1752,False,603
+9,22,Angela,2309969,2060,False,272
+9,22,Angela & Oscar,118148,70,False,3
+9,22,Bartender,237497,280,False,31
+9,22,Camera Crew,59147,41,False,5
+9,22,Casey,1299290,742,False,162
+9,22,Check-in guy,414255,323,False,58
+9,22,Clark,295716,219,False,62
+9,22,Clay Aiken,118485,108,False,19
+9,22,Creed,236606,168,False,68
+9,22,Darryl,1774149,1271,False,324
+9,22,Dwight,5144106,3466,False,1202
+9,22,Erin,1300974,849,False,169
+9,22,Esther,236491,152,False,46
+9,22,Everyone,58941,18,False,8
+9,22,Glenn,59036,32,False,7
+9,22,Hank,59074,37,False,2
+9,22,Jim,5260493,3413,False,1056
+9,22,Jim & Dwight,118106,68,False,5
+9,22,Kevin,1775375,1392,False,261
+9,22,Mark McGrath,236020,112,False,134
+9,22,Meredith,532174,370,False,87
+9,22,Oscar,1656926,1280,False,282
+9,22,Pam,2009532,1281,False,258
+9,22,People in line,59219,52,False,4
+9,22,Pete,236144,128,False,11
+9,22,Philip,58903,6,False,1
+9,22,Phillip,177638,151,False,3
+9,22,Phyllis,414374,341,False,65
+9,22,Santigold,236971,216,False,32
+9,22,Soldier,59063,36,False,21
+9,22,Stanley,236695,182,False,54
+9,23,All,596018,409,False,43
+9,23,Andy,1846820,1212,False,430
+9,23,Angela,1371078,1004,False,272
+9,23,Bill Hader,237832,72,False,17
+9,23,Buyer,119667,172,False,9
+9,23,CameraMan,118780,2,False,12
+9,23,Carol,59818,86,False,9
+9,23,Carol Stills,59815,86,False,4
+9,23,Casey Dean,59452,16,False,7
+9,23,Clark,178611,90,False,20
+9,23,Creed,478802,770,False,168
+9,23,Crowd,59420,6,False,2
+9,23,Dakota,178892,146,False,27
+9,23,Darryl,1132810,919,False,177
+9,23,David Wallace,119521,143,False,40
+9,23,Dwight,4529068,2993,False,1115
+9,23,Ed,119484,138,False,16
+9,23,Erin,656616,656,False,129
+9,23,Guy,119080,64,False,13
+9,23,Jakey,238332,152,False,15
+9,23,Jim,4355805,4013,False,786
+9,23,Joan,298510,305,False,55
+9,23,Kelly,716982,849,False,141
+9,23,Kevin,1850355,1823,False,282
+9,23,Malcolm,178355,44,False,28
+9,23,Man,59670,53,False,4
+9,23,Man 1,59673,54,False,12
+9,23,Man 2,119372,114,False,14
+9,23,Man 3,59689,58,False,15
+9,23,Meredith,894144,670,False,158
+9,23,Michael,119549,152,False,23
+9,23,Minister,119509,142,False,49
+9,23,Moderator,119397,118,False,54
+9,23,Mose,119274,87,False,8
+9,23,Nellie,536491,426,False,138
+9,23,Oscar,1073186,869,False,219
+9,23,Pam,2687588,2993,False,885
+9,23,Pete,179297,224,False,23
+9,23,Photographer,59851,91,False,22
+9,23,Phyllis,1013676,833,False,151
+9,23,Rachel,417020,254,False,28
+9,23,Ravi,418326,519,False,73
+9,23,Ryan,896258,1073,False,160
+9,23,Seth Mayers,178374,54,False,34
+9,23,Stanley,477521,458,False,94
+9,23,Stripper,297836,185,False,36
+9,23,Toby,774912,605,False,108
+9,23,Usher,59711,62,False,3
+9,23,Val,179416,255,False,19
+9,23,Woman,59845,88,False,6
+9,23,Woman 1,59677,55,False,34
+9,23,Woman 2,119366,112,False,32
+9,23,Woman 3,59691,59,False,12
+9,23,Woman 4,119389,120,False,37
+9,23,Zeke,118886,24,False,8
